@@ -66,6 +66,23 @@ International SEO and AI Search Optimization consultant. Founder of Orainti, SEO
 - **Type:** Video / podcast archive
 - **Annotation:** Archive of SEO videos and podcast episodes hosted by Aleyda Solís. Useful for finding additional interviews and expert discussions.
 
+---
+
+## Bernard Huang
+**Role / Company:**
+Founder of Clearscope. Currently describes himself on LinkedIn as building autonomous AI businesses.
+**Why selected:**
+- His work is closely tied to SEO content optimization, AI search visibility, AEO / GEO, topical authority, and content systems.
+- Clearscope is directly relevant to AI-powered content production because it helps teams optimize content for search and emerging answer engines.
+### Sources
+1. **Personal Website:** [Bernard Huang - Personal Website](https://bernardjhuang.com/)
+* **Date:** Accessed 2026-07-01
+* **Type:** Personal website
+* **Annotation:** Official personal website describing Bernard Huang as the founder of Clearscope and summarizing his work in content-first SEO.
+
+
+
+
 1. [Source title](link)  
    **Date:** YYYY-MM-DD  
    **Type:** Article / LinkedIn post / YouTube / Podcast / Website  
