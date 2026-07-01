@@ -157,20 +157,53 @@ Co-founder of Authority Hacker.
 - **Type:** Podcast / article
 - **Annotation:** Relevant source on AI-supported digital PR workflows, automation, link building, and tools such as n8n, Apify, and Zapier.
 
+---
+
+## Julian Goldie
+
+**Role / Company:**
+Founder of Goldie Agency. Creator of Julian Goldie SEO.
+
+**Why selected:**
+- He publishes highly tactical material on AI SEO, automation, AI agents, link building, and programmatic SEO workflows.
+- His content is useful for understanding the more automation-heavy side of AI-powered SEO content production. His work should be treated as tactical/operator material rather than academic or enterprise SEO research.
+
+### Sources
+
+1. **Personal / Agency Website:** [Julian Goldie - Goldie Agency](https://juliangoldie.co.uk/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Personal / agency website
+- **Annotation:** Official website describing Julian Goldie’s SEO agency background, team, SEO services, and online education work.
+
+2. **YouTube:** [Julian Goldie - YouTube Channel](https://www.youtube.com/@JulianGoldieSEO)
+- **Date:** Accessed 2026-07-01
+- **Type:** YouTube channel
+- **Annotation:** Main YouTube channel focused on SEO, traffic growth, backlinks, and AI SEO workflows.
+
+3. **LinkedIn:** [Julian Goldie - LinkedIn](https://www.linkedin.com/in/juliangoldieseo/)
+- **Date:** Accessed 2026-07-01
+- **Type:** LinkedIn profile
+- **Annotation:** Source for current posts, AI SEO experiments, and tactical workflow claims.
+
+4. **Case Study:** [Julian Goldie - "SEO Case Study: 10X More Search Traffic in 11 Months"](https://juliangoldie.com/seo-case-study/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Case study
+- **Annotation:** Case study source showing his SEO testing and traffic growth approach.
+
+5. **Podcast:** [Julian Goldie - "Julian Goldie Reveals His AI Clone Workflow"](https://www.marketmoverspod.com/e/julian-goldie-reveals-his-ai-clone-workflow-how-ai-seo-agencies-scale-to-100m-viewsyear/)
+- **Date:** 2026-01-29. Accessed 2026-07-01
+- **Type:** Podcast / interview
+- **Annotation:** Interview source on AI-driven marketing systems, AI SEO, automation, and high-distribution content workflows.
+
+6. **Podcast:** [Julian Goldie - "Harnessing AI for Explosive Growth in AI SEO Content Creation"](https://www.theconversionshow.com/episode/juliangoldie)
+* **Date:** 2025-11-10. Accessed 2026-07-01
+* **Type:** Podcast / interview
+* **Annotation:** Interview focused on AI, content creation, YouTube, SEO, and how AI can support video and content growth.
+
+7. **LinkedIn Post:** [Julian Goldie - "How to Get 25,000 Visits in 24 Hours with AI and YouTube"](https://www.linkedin.com/posts/juliangoldieseo_seo-youtubeseo-aitools-activity-7392638381811421186-yU1A)
+- **Date:** 2026-01-02. Accessed 2026-07-01
+- **Type:** LinkedIn post
+- **Annotation:** Tactical LinkedIn post describing an AI + YouTube + SEO content workflow. Useful as an example of automation-heavy SEO experimentation.
 
 
 
-
-1. [Source title](link)  
-   **Date:** YYYY-MM-DD  
-   **Type:** Article / LinkedIn post / YouTube / Podcast / Website  
-   **Annotation:** Brief note explaining why this source is useful.
-
-   Other:
-   1 LinkedIn profile
-1 company/personal website
-1 recent LinkedIn post
-1 article or guide
-1 YouTube video / podcast / webinar
-1 interview
-1 extra high-signal source
