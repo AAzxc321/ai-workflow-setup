@@ -61,6 +61,10 @@ International SEO and AI Search Optimization consultant. Founder of Orainti, SEO
 - **Date:** 2025-09-09
 - **Type:** YouTube video / presentation
 - **Annotation:** Video source focused on AI search optimization strategy and how SEOs can structure an AI search optimization process.
+7. **Podcast:** [Aleyda Solís - Crawling Mondays](https://www.aleydasolis.com/en/crawling-mondays-videos/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Video / podcast archive
+- **Annotation:** Archive of SEO videos and podcast episodes hosted by Aleyda Solís. Useful for finding additional interviews and expert discussions.
 
 1. [Source title](link)  
    **Date:** YYYY-MM-DD  
