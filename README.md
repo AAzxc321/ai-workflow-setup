@@ -8,7 +8,7 @@ This repository documents the setup process completed as part of a hiring assess
 
 ---
 
-## Tools Installed
+### Tools Installed
 
 - GitHub
 - Cursor IDE
@@ -17,7 +17,7 @@ This repository documents the setup process completed as part of a hiring assess
 
 ---
 
-## Steps Completed
+### Steps Completed
 
 1. Reviewed the assessment instructions.
 2. Verified the company, software, and provided links before installing anything.
@@ -30,7 +30,7 @@ This repository documents the setup process completed as part of a hiring assess
 
 ---
 
-## Research Process
+### Research Process
 
 Before installing any software, I verified that the request was legitimate by checking the company, reviewing the official websites, and comparing the hiring process with publicly available information.
 
@@ -40,7 +40,7 @@ Before moving on to each step, I manually checked the information to ensure ever
 
 ---
 
-## Issues Encountered
+### Issues Encountered
 
 Cursor initially opened in the **Cursor Agents** view instead of the standard editor. Because of this, the **Extensions** menu mentioned in the instructions was not visible.
 
@@ -50,7 +50,7 @@ After approximately ten minutes of troubleshooting, I restarted Cursor and opene
 
 ---
 
-## Takeaways
+### Takeaways
 
 This exercise reinforced the importance of verifying information before taking action.
 
