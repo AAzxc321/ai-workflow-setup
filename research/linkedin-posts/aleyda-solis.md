@@ -2,11 +2,11 @@
 
 ## Collection Notes
 
-**Expert:** Aleyda Solís
-**LinkedIn profile:** https://www.linkedin.com/in/aleyda/
-**Collection method:** Manually collected from LinkedIn activity feed.
-**Date collected:** 2026-07-01
-**Topic focus:** AI search optimization, SEO measurement, AI visibility, content/search strategy, and practical AI search workflows.
+- **Expert:** Aleyda Solís
+- **LinkedIn profile:** https://www.linkedin.com/in/aleyda/
+- **Collection method:** Manually collected from LinkedIn activity feed.
+- **Date collected:** 2026-07-01
+- **Topic focus:** AI search optimization, SEO measurement, AI visibility, content/search strategy, and practical AI search workflows.
 
 ## Selection Criteria
 
