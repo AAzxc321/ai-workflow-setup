@@ -138,57 +138,42 @@ Full methodology + every prompt below ↓
 
 ---
 
-## Post N
+## Post 4
 
-* **URL:** [Post N](N)
-* **Date:**
+* **URL:** [Post 4](https://www.linkedin.com/posts/bernardjhuang_after-close-to-a-decade-tomorrow-will-be-activity-7460744339384598529-2xdA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+* **Date:** Thu, 14 May 2026 17:34:24 GMT (UTC)
 * **Source type:** LinkedIn post
 
-## **Post N Extract:**
+## **Post 4 Extract:**
+After close to a decade, tomorrow will be my last day at Clearscope.
 
+It's hard to put almost ten years into a post. So here are some memories I keep coming back to:
+* Biking around San Francisco trying to convince anyone in a coffee shop to take a pitch... and being turned down 9 out of 10 times
+* Surviving aggressive moves from competitors and figuring out, together, how to navigate them
+* Getting to meet a ton of you at all the amazing IRL conferences
+* But most importantly, building a category-leading SEO platform alongside an amazing and caring team
 
-**Image / visual note:**
-![Post n](n)
+I came in as one version of myself and I'm walking out as a pretty different one. 
 
----
+Almost everything I know about building software, building a company, and showing up for a team — I learned at Clearscope, from the people there. Thank you all for your dedication over the years.
 
-## Post N
+Also, shoutouts to each and every one of you in the SEO industry that took an early chance on me and Clearscope.
 
-* **URL:** [Post N](N)
-* **Date:**
-* **Source type:** LinkedIn post
+I will never forget our first supporters including:
+* Takeshi Young, your willingness to let me rewrite your content and prove that optimizing for entities does actually work
+* Shannon Ratliff + Denis O'Dwyer, y'all taking an early bet on our platform - despite our launch being riddled with a bunch of issues
+* Scott Kera + DOM CORYELL, your ongoing faith and trust in us from early on that led to many referrals
+* Ethan Smith, your willingness to trade SEO war notes so we could both level up
+* Devesh Khanal + Benji Hyam, our intense philosophical debates on what's actually going on in SEO / AI 
+* Ross Hudgens, always having a blast sharing learnings with you over breakfast, webinars, and podcasts
+* George Nguyen + AIS, for the early morning deep talks on work, life, and the wonderful world of search
+* Eli Schwartz + Kevin Indig + Aleyda Solís + Lily Ray + Cyrus S. + Michael King, for always being so generous with your time and wisdom
 
-## **Post N Extract:**
+Rooting for the team always. Team Clearscope, forever 💙 
 
-
-**Image / visual note:**
-![Post n](n)
-
----
-
-## Post N
-
-* **URL:** [Post N](N)
-* **Date:**
-* **Source type:** LinkedIn post
-
-## **Post N Extract:**
-
+ps. who here remembers how to do a search intent classification for [bone broth]?
 
 **Image / visual note:**
-![Post n](n)
+Image shows a selfie of Bernard Huang and three other pictures of his team. 
 
----
-
-## Post N
-
-* **URL:** [Post N](N)
-* **Date:**
-* **Source type:** LinkedIn post
-
-## **Post N Extract:**
-
-
-**Image / visual note:**
-![Post n](n)
 
