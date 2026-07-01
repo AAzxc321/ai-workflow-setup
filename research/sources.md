@@ -52,7 +52,7 @@ International SEO and AI Search Optimization consultant. Founder of Orainti, SEO
 - **Type:** LinkedIn profile
 - **Annotation:** Source for current positioning, recent posts, AI search topics, and professional background.
 4. **Article:** [Aleyda Solís - Article "The AI Search Optimization Checklist – With Worksheet - Updated May 2026"](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/)
-- **Date:** Updated 2026-05-28. Accessed 2026-07-01
+- **Date:** Updated 2026-05-27. Accessed 2026-07-01
 - **Type:** Article / checklist
 - **Annotation:** Practical checklist for optimizing content for AI search, including journey selection, visibility, source mapping, content gaps, validation, and reporting without overclaiming.
 5. **LinkedIn Post:** [Aleyda Solís - "Updated AI Search Optimization Checklist"](https://www.linkedin.com/posts/aleyda_ive-just-updated-my-ai-search-optimization-share-7466150458743586817-08Ut/)
@@ -111,7 +111,6 @@ Founder of Clearscope. Currently describes himself on LinkedIn as building auton
 ---
 
 ## [3/10] Gael Breton
-
 **Role / Company:**
 
 Co-founder of Authority Hacker.
@@ -152,15 +151,14 @@ Co-founder of Authority Hacker.
 - **Type:** LinkedIn post
 - **Annotation:** Practical post discussing AI model choice for API calls and automation. Relevant to AI workflow design and cost/performance thinking.
 
-7. **Podcast / Article:** [Gael Breton - "How AI Is Reshaping Digital PR Workflows"](https://www.buzzstream.com/blog/ai-digital-pr-podcast/)
-- **Date:** 2025-06-19. Accessed 2026-07-01
-- **Type:** Podcast / article
-- **Annotation:** Relevant source on AI-supported digital PR workflows, automation, link building, and tools such as n8n, Apify, and Zapier.
+7. **Article:** [Gael Breton - "Stop Chatting With AI. Start Delegating To It."](https://www.authorityhacker.com/blog/claude-code-for-marketers-course-announcement/)
+- **Date:** 2026-02-06. Accessed 2026-07-01
+- **Type:** Article
+- **Annotation:** Practical article by Gael Breton on using Claude Code for non-technical marketers, reusable AI workflows, skills, commands, and delegating real marketing tasks to AI systems.
 
 ---
 
 ## [4/10] Julian Goldie
-
 **Role / Company:**
 
 Founder of Goldie Agency. Creator of Julian Goldie SEO.
@@ -209,7 +207,6 @@ Founder of Goldie Agency. Creator of Julian Goldie SEO.
 ---
 
 ## [5/10] Kevin Indig
-
 **Role / Company:**
 
 Organic growth advisor. Author of Growth Memo. Former SEO / growth leader at companies including Shopify, G2, and Atlassian.
@@ -259,7 +256,6 @@ Organic growth advisor. Author of Growth Memo. Former SEO / growth leader at com
 
 
 ## [6/10] Lily Ray
-
 **Role / Company:**
 
 Founder of Algorythmic. VP of SEO & AI Search at Amsive.
@@ -291,7 +287,7 @@ Founder of Algorythmic. VP of SEO & AI Search at Amsive.
 - **Annotation:** Reflection on SEO, GEO, AI search, and where search is heading in 2026. Useful for understanding her high-level perspective on AI search.
 
 5. **Article:** [Lily Ray - "The AI Slop Loop"](https://lilyraynyc.substack.com/p/the-ai-slop-loop)
-- **Date:** 2025-04-14. Accessed 2026-07-01
+- **Date:** 2026-04-14. Accessed 2026-07-01
 - **Type:** Article / newsletter
 - **Annotation:** Relevant source on AI-generated misinformation, AI slop, and why source verification matters in AI search and SEO content.
 
@@ -308,14 +304,13 @@ Founder of Algorythmic. VP of SEO & AI Search at Amsive.
 ---
 
 ## [7/10] Matt Diggity
-
 **Role / Company:**
 
 Founder of Diggity Marketing. Associated with The Search Initiative and SEO case-study work.
 
 **Why selected:**
-* He publishes SEO experiments, case studies, and practical analysis based on real websites.
-* He is useful for understanding AI SEO testing, AI Overviews visibility, content optimization, and the more performance-driven side of SEO.
+- He publishes SEO experiments, case studies, and practical analysis based on real websites.
+- He is useful for understanding AI SEO testing, AI Overviews visibility, content optimization, and the more performance-driven side of SEO.
 
 ### Sources
 
@@ -357,7 +352,6 @@ Founder of Diggity Marketing. Associated with The Search Initiative and SEO case
 ---
 
 ## [8/10] Michael King
-
 **Role / Company:**
 
 Founder and CEO of iPullRank.
@@ -406,14 +400,13 @@ Founder and CEO of iPullRank.
 ---
 
 ## [9/10] Ross Simmonds
-
 **Role / Company:**
 
 Founder and CEO of Foundation. Founder of Distribution.ai.
 
 **Why selected:**
-* His work focuses on B2B SaaS content strategy, content distribution, repurposing, and AI-assisted distribution systems.
-* He is useful for understanding what happens after content is created: how content gets distributed, reused, and turned into business outcomes.
+- His work focuses on B2B SaaS content strategy, content distribution, repurposing, and AI-assisted distribution systems.
+- He is useful for understanding what happens after content is created: how content gets distributed, reused, and turned into business outcomes.
 
 ### Sources
 
@@ -456,15 +449,14 @@ Founder and CEO of Foundation. Founder of Distribution.ai.
 
 
 ## [10/10] Ryan Law
-
 **Role / Company:**
 
 Director of Content Marketing at Ahrefs. Previously CMO at Animalz.
 
 **Why selected:**
 
-* His work is directly relevant to AI-powered content production, editorial quality, information gain, content strategy, and the limits of generic AI-generated content.
-* He is useful for understanding how content teams can use AI without producing low-value, commodity content.
+- His work is directly relevant to AI-powered content production, editorial quality, information gain, content strategy, and the limits of generic AI-generated content.
+- He is useful for understanding how content teams can use AI without producing low-value, commodity content.
 
 ### Sources
 
