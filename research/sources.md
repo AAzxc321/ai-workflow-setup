@@ -95,6 +95,14 @@ Founder of Clearscope. Currently describes himself on LinkedIn as building auton
 - **Date:** 2023-10-10. Accessed 2026-07-01
 - **Type:** Webinar
 - **Annotation:** Source for Bernard Huang’s broader views on SEO trends and the future of search.
+6. **Podcast:** [Bernard Huang - "AI-driven SEO Revolution: The Future of Discoverability"](https://saas.group/podcasts/ai%E2%80%91driven-seo-revolution-the-future-of-discoverability-with-bernard-huang-clearscope/)
+- **Date:** 2025-11-18. Accessed 2026-07-01
+- **Type:** Podcast / interview
+- **Annotation:** Interview source discussing AI-driven discoverability and the shift from ranking in blue links to influencing AI-generated answers.
+7. **Webinar:** [Bernard Huang - "How to Rank SEO Content in the Era of Generative AI"](https://www.clearscope.io/webinars/rank-seo-content-in-the-era-of-generative-ai-bernard-huang)
+- **Date:** 2023-08-10. Accessed 2026-07-01
+- **Type:** Webinar
+- **Annotation:** Relevant source on helpful content, information gain, SERP similarity, LLMs, and how SEO content should adapt in the era of generative AI.
 
 
 
