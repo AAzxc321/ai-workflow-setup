@@ -451,3 +451,54 @@ Founder and CEO of Foundation. Founder of Distribution.ai.
 - **Date:** 2025-08-08. Accessed 2026-07-01
 - **Type:** LinkedIn post
 - **Annotation:** Practical post about using AI to repurpose one asset into multiple formats and distribute content more efficiently.
+
+---
+
+
+## [10/10] Ryan Law
+
+**Role / Company:**
+
+Director of Content Marketing at Ahrefs. Previously CMO at Animalz.
+
+**Why selected:**
+
+* His work is directly relevant to AI-powered content production, editorial quality, information gain, content strategy, and the limits of generic AI-generated content.
+* He is useful for understanding how content teams can use AI without producing low-value, commodity content.
+
+### Sources
+
+1. **Personal Website:** [Ryan Law - Personal Website](https://ryanlaw.me/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Personal website
+- **Annotation:** Official personal website describing his current and previous content marketing work.
+
+2. **Author Profile:** [Ryan Law - Ahrefs Author Profile](https://ahrefs.com/blog/author/ryan-law/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Author profile
+- **Annotation:** Main source for Ryan Law’s recent Ahrefs writing on SEO, AI content, content marketing, and content performance.
+
+3. **LinkedIn:** [Ryan Law - LinkedIn](https://www.linkedin.com/in/thinkingslow/)
+- **Date:** Accessed 2026-07-01
+- **Type:** LinkedIn profile
+- **Annotation:** Source for current posts about AI content, AI search, content quality, GEO, and B2B content strategy.
+
+4. **Article / Workflow:** [Ryan Law - "My Complete AI Content Process for Ahrefs"](https://ahrefs.com/blog/my-complete-ai-content-process-for-ahrefs/)
+- **Date:** 2025-08-05. Accessed 2026-07-01
+- **Type:** Article / workflow
+- **Annotation:** Directly relevant source showing how Ryan Law uses AI in Ahrefs’ content production process, including research, outlines, drafting, internal links, editing, and updates.
+
+5. **Article:** [Ryan Law - "AI Content Wasn’t Good Enough. Now It Is."](https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/)
+- **Date:** 2026-03-16. Accessed 2026-07-01
+- **Type:** Article
+- **Annotation:** Relevant source on AI content quality, SEO performance, and how AI-generated content has changed.
+
+6. **LinkedIn Post:** [Ryan Law - "AI Content Automation System Walkthrough"](https://www.linkedin.com/posts/thinkingslow_heres-a-full-9-minute-walkthrough-of-my-activity-7464941601384128512-4-xC)
+- **Date:** 2026-06-26, exact date to verify. Accessed 2026-07-01
+- **Type:** LinkedIn post
+- **Annotation:** Recent post showing his AI content automation system and the stages it covers, including keyword research, competitor analysis, outlining, drafting, internal linking, editing, formatting, and updating.
+
+7. **YouTube:** [Ryan Law - "AI Writing at Scale: Ahrefs' Step-by-Step Workflow"](https://www.youtube.com/watch?v=D7LBx8RFOcQ)
+- **Date:** 2025-08-05. Accessed 2026-07-01
+- **Type:** YouTube interview / workflow
+- **Annotation:** Video source walking through Ryan Law’s AI content workflow at Ahrefs, useful for transcript collection and later playbook synthesis.
