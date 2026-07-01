@@ -33,6 +33,7 @@ The research focuses on: practical workflows, content quality, AI search visibil
 
 ## Aleyda Solís
 **Role / Company:** 
+
 International SEO and AI Search Optimization consultant. Founder of Orainti, SEOFOMO, and LearningAIsearch.com.
 
 **Why selected:** 
@@ -71,8 +72,10 @@ International SEO and AI Search Optimization consultant. Founder of Orainti, SEO
 
 ## Bernard Huang
 **Role / Company:**
+
 Founder of Clearscope. Currently describes himself on LinkedIn as building autonomous AI businesses.
 **Why selected:**
+
 - His work is closely tied to SEO content optimization, AI search visibility, AEO / GEO, topical authority, and content systems.
 - Clearscope is directly relevant to AI-powered content production because it helps teams optimize content for search and emerging answer engines.
 ### Sources
@@ -110,6 +113,7 @@ Founder of Clearscope. Currently describes himself on LinkedIn as building auton
 ## Gael Breton
 
 **Role / Company:**
+
 Co-founder of Authority Hacker.
 **Why selected:**
 
