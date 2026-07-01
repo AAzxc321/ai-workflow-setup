@@ -31,7 +31,7 @@ The research focuses on: practical workflows, content quality, AI search visibil
     
 ---
 
-## Aleyda Solís
+## [1/10] Aleyda Solís
 **Role / Company:** 
 
 International SEO and AI Search Optimization consultant. Founder of Orainti, SEOFOMO, and LearningAIsearch.com.
@@ -70,7 +70,7 @@ International SEO and AI Search Optimization consultant. Founder of Orainti, SEO
 
 ---
 
-## Bernard Huang
+## [2/10] Bernard Huang
 **Role / Company:**
 
 Founder of Clearscope. Currently describes himself on LinkedIn as building autonomous AI businesses.
@@ -110,7 +110,7 @@ Founder of Clearscope. Currently describes himself on LinkedIn as building auton
 
 ---
 
-## Gael Breton
+## [3/10] Gael Breton
 
 **Role / Company:**
 
@@ -159,7 +159,7 @@ Co-founder of Authority Hacker.
 
 ---
 
-## Julian Goldie
+## [4/10] Julian Goldie
 
 **Role / Company:**
 Founder of Goldie Agency. Creator of Julian Goldie SEO.
@@ -207,7 +207,7 @@ Founder of Goldie Agency. Creator of Julian Goldie SEO.
 
 ---
 
-## Kevin Indig
+## [5/10] Kevin Indig
 
 **Role / Company:**
 Organic growth advisor. Author of Growth Memo. Former SEO / growth leader at companies including Shopify, G2, and Atlassian.
@@ -253,4 +253,52 @@ Organic growth advisor. Author of Growth Memo. Former SEO / growth leader at com
 - **Type:** YouTube interview / podcast episode
 - **Annotation:** Long-form interview with Kevin Indig on AI Overviews, search traffic, and adapting SEO strategy in an AI-first search environment.
 
+---
+
+
+## [6/10] Lily Ray
+
+**Role / Company:**
+Founder of Algorythmic. VP of SEO & AI Search at Amsive.
+
+**Why selected:**
+- Her work focuses on AI search, Google algorithm updates, E-E-A-T, content quality, and search visibility risk.
+- She is useful for evaluating whether AI-assisted content can survive quality systems, algorithm updates, and AI search changes.
+
+### Sources
+
+1. **Company Website:** [Lily Ray - Algorythmic](https://algorythmic.co/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Company / consultancy website
+- **Annotation:** Official website for Lily Ray’s SEO and AI search consultancy.
+
+2. **Company / Author Profile:** [Lily Ray - Amsive Author Profile](https://www.amsive.com/insights/author/lily-ray/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Company / author profile
+- **Annotation:** Amsive profile describing Lily Ray as Vice President, SEO and AI Search. Useful for verifying her role and SEO / AI search positioning.
+
+3. **LinkedIn:** [Lily Ray - LinkedIn](https://www.linkedin.com/in/lily-ray-44755615/)
+- **Date:** Accessed 2026-07-01
+- **Type:** LinkedIn profile
+- **Annotation:** Source for current positioning, recent posts, and topics around AI search, E-E-A-T, and algorithm updates.
+
+4. **Article:** [Lily Ray - "A Reflection on SEO, GEO & AI Search in 2025"](https://lilyraynyc.substack.com/p/a-reflection-on-seo-and-ai-search)
+- **Date:** 2026-01-19. Accessed 2026-07-01
+- **Type:** Article / newsletter
+- **Annotation:** Reflection on SEO, GEO, AI search, and where search is heading in 2026. Useful for understanding her high-level perspective on AI search.
+
+5. **Article:** [Lily Ray - "The AI Slop Loop"](https://lilyraynyc.substack.com/p/the-ai-slop-loop)
+- **Date:** 2025-04-14. Accessed 2026-07-01
+- **Type:** Article / newsletter
+- **Annotation:** Relevant source on AI-generated misinformation, AI slop, and why source verification matters in AI search and SEO content.
+
+6. **Webinar / Article:** [Lily Ray - "AEO in Plain English with Lily Ray"](https://www.amsive.com/insights/seo/aeo-in-plain-english-with-lily-ray/)
+- **Date:** 2025-12-16. Accessed 2026-07-01
+- **Type:** Webinar / article
+- **Annotation:** Practical source on AEO, AI search visibility, hype vs. reality, SEO fundamentals, query fan-out, and owned / earned / social signals.
+
+7. **YouTube:** [Lily Ray - "AI Overviews, AI Content and E-E-A-T"](https://www.youtube.com/watch?v=UDexUcyPC04)
+- **Date:** 2025-03-17. Accessed 2026-07-01
+- **Type:** YouTube interview
+- **Annotation:** Interview source connecting AI Overviews, AI-generated content, and E-E-A-T ("Experience, Expertise, Authoritativeness, and Trustworthiness"). 
 
