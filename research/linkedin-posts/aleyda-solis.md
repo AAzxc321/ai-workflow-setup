@@ -119,14 +119,31 @@ Read: https://lnkd.in/eUQtuss5
 ---
 
 ## Post 4
-- **URL:** [Post 4](v)
-- **Date:**
-- **Source type:**
+- **URL:** [Post 4](https://www.linkedin.com/posts/aleyda_seofomo-activity-7477028558436130816-ezA5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+- **Date:**  Sun, 28 Jun 2026 16:02:04 GMT (UTC)
+- **Source type:** LinkedIn post. 
 
-## **Post N Extract:** 
+## **Post 4 Extract:** 
+🚨 A new Spam Update and More SEO & AI Search News [From hashtag#SEOFOMO, June 28, 2026] 👇
+
+* Google released and completed the rollout of the June 2026 Spam Update
+* ​Microsoft Clarity Now Surfaces Robots.txt Violations in Bot Analytics
+* ​Google’s Mueller Explains How AI Search Impressions Get Counted
+* ​Google Creates Subscription Linking For News Publishers
+* ​Google Cautions Against Markdown Versions Of Websites For AI SEO
+* ​How To Define & Report SEO KPIs That Actually Move The C-Suite
+* ​Only 27% of domain migrations recover in 90 days
+* ​The Downstream Impact of AI Visibility
+* ​How ChatGPT Actually Picks Sources (I Read the Network Traffic, Not the Outputs)
+* ​Translated Reddit Is Winning AI Citations
+* The latest SEO & AI Search Jobs, Events, Tools... 
+
+More! From specialists like Metehan Yeşilyurt, Rich Sanger SEO, Suganthan Mohanadasan, Rand Fishkin, Dan Taylor, Jes Scholz and more!
+
+Read in link in comments 👀
 
 **Image / visual note:** 
-![Post n](n)
+![Post 4](https://media.licdn.com/dms/image/v2/D4E22AQGtkv6LaI6uGw/feedshare-image-high-res/B4EZ8O92kTKMAU-/0/1782662523481?e=1784764800&v=beta&t=wK_JEuonUFz17HZ0RoRpnSgBQ56cfSH8OtTM_7QmZJ8)
 
 ---
 
