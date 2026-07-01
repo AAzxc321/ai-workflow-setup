@@ -45,6 +45,7 @@ International SEO and AI Search Optimization consultant. Founder of Orainti, SEO
 - **Type:** Personal website
 - **Annotation:** Official website describing her work in international SEO, AI search optimization, ecommerce, marketplace, SaaS SEO, and consulting. Contact information available.
 2. **Company Website:** [Aleyda Solís - Orainti](https://www.orainti.com/)
+- **Date:** Accessed 2026-07-01
 - **Type:** Company website
 - **Annotation:** Boutique SEO consultancy founded by Aleyda Solís. Useful for verifying her consulting background and SEO specialization.
 3. **LinkedIn:** [Aleyda Solís - LinkedIn](https://www.linkedin.com/in/aleyda/)
@@ -52,7 +53,7 @@ International SEO and AI Search Optimization consultant. Founder of Orainti, SEO
 - **Type:** LinkedIn profile
 - **Annotation:** Source for current positioning, recent posts, AI search topics, and professional background.
 4. **Article:** [Aleyda Solís - Article "The AI Search Optimization Checklist – With Worksheet - Updated May 2026"](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/)
-- **Date:** Updated 2026-05-27. Accessed 2026-07-01
+- **Date:** - **Date:** Published 2026-05-27. Updated 2026-05-28. Accessed 2026-07-01
 - **Type:** Article / checklist
 - **Annotation:** Practical checklist for optimizing content for AI search, including journey selection, visibility, source mapping, content gaps, validation, and reporting without overclaiming.
 5. **LinkedIn Post:** [Aleyda Solís - "Updated AI Search Optimization Checklist"](https://www.linkedin.com/posts/aleyda_ive-just-updated-my-ai-search-optimization-share-7466150458743586817-08Ut/)
@@ -116,8 +117,8 @@ Founder of Clearscope. Currently describes himself on LinkedIn as building auton
 Co-founder of Authority Hacker.
 
 **Why selected:**
-* His work focuses on practical content operations, authority sites, AI automation, SEO systems, and workflow design.
-* He is useful for understanding how operators use automation and AI tools to scale research, content workflows, and digital marketing systems while keeping a human review layer.
+- His work focuses on practical content operations, authority sites, AI automation, SEO systems, and workflow design.
+- He is useful for understanding how operators use automation and AI tools to scale research, content workflows, and digital marketing systems while keeping a human review layer.
 
 ### Sources
 
@@ -147,7 +148,7 @@ Co-founder of Authority Hacker.
 - **Annotation:** YouTube channel connected to the Authority Hacker Podcast, useful for collecting recent AI automation and SEO workflow videos.
 
 6. **LinkedIn Post:** [Gael Breton - "Think OpenAI is the king for automation?"](https://www.linkedin.com/posts/gael-breton_think-openai-is-the-king-for-automation-activity-7326589391483621376-p8Cf)
-- **Date:** Exact date to verify. Accessed 2026-07-01
+- **Date:** 2025-05-19. Accessed 2026-07-01
 - **Type:** LinkedIn post
 - **Annotation:** Practical post discussing AI model choice for API calls and automation. Relevant to AI workflow design and cost/performance thinking.
 
@@ -195,9 +196,9 @@ Founder of Goldie Agency. Creator of Julian Goldie SEO.
 - **Annotation:** Interview source on AI-driven marketing systems, AI SEO, automation, and high-distribution content workflows.
 
 6. **Podcast:** [Julian Goldie - "Harnessing AI for Explosive Growth in AI SEO Content Creation"](https://www.theconversionshow.com/episode/juliangoldie)
-* **Date:** 2025-11-10. Accessed 2026-07-01
-* **Type:** Podcast / interview
-* **Annotation:** Interview focused on AI, content creation, YouTube, SEO, and how AI can support video and content growth.
+- **Date:** 2025-11-10. Accessed 2026-07-01
+- **Type:** Podcast / interview
+- **Annotation:** Interview focused on AI, content creation, YouTube, SEO, and how AI can support video and content growth.
 
 7. **LinkedIn Post:** [Julian Goldie - "How to Get 25,000 Visits in 24 Hours with AI and YouTube"](https://www.linkedin.com/posts/juliangoldieseo_seo-youtubeseo-aitools-activity-7392638381811421186-yU1A)
 - **Date:** 2026-01-02. Accessed 2026-07-01
@@ -345,7 +346,7 @@ Founder of Diggity Marketing. Associated with The Search Initiative and SEO case
 - **Annotation:** LinkedIn summary of the AI search traffic case study, including AI Overviews keyword visibility and AI referral traffic growth.
 
 7. **YouTube:** [Matt Diggity - "Matt Diggity on AI SEO and Personal Brands"](https://www.youtube.com/watch?v=P1fnk_GVVNo)
-* **Date:** 2026-04-25. Accessed 2026-07-01
+- **Date:** 2026-04-25. Accessed 2026-07-01
 - **Type:** YouTube interview
 - **Annotation:** Interview source on AI SEO, personal brands, and how search may change as AI search becomes more prominent.
 
@@ -486,7 +487,7 @@ Director of Content Marketing at Ahrefs. Previously CMO at Animalz.
 - **Annotation:** Relevant source on AI content quality, SEO performance, and how AI-generated content has changed.
 
 6. **LinkedIn Post:** [Ryan Law - "AI Content Automation System Walkthrough"](https://www.linkedin.com/posts/thinkingslow_heres-a-full-9-minute-walkthrough-of-my-activity-7464941601384128512-4-xC)
-- **Date:** 2026-06-26, exact date to verify. Accessed 2026-07-01
+- **Date:** 2026-05-26. Accessed 2026-07-01
 - **Type:** LinkedIn post
 - **Annotation:** Recent post showing his AI content automation system and the stages it covers, including keyword research, competitor analysis, outlining, drafting, internal linking, editing, formatting, and updating.
 
