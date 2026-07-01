@@ -50,7 +50,7 @@ The original LinkedIn post includes an image. Image shows a screenshot of a Zoom
 - **Date:** Tue, 30 Jun 2026 07:56:18 GMT (UTC)
 - **Source type:** LinkedIn post. 
 
-**Post 2 Extract:** 
+## **Post 2 Extract:** 
 
 📣 This Week's PR Campaigns & Opportunities [June 30, 2026] from hashtag#TrendingCampaigns 👇 
 
@@ -100,7 +100,7 @@ Read here: https://lnkd.in/eMAkmBP4
 - **Date:** Mon, 29 Jun 2026 15:06:26 GMT (UTC)
 - **Source type:** LinkedIn post. 
 
-**Post 3 Extract:** 
+## **Post 3 Extract:** 
 Fan-out Framework: 5 Steps to Improve SEO and AI Visibility - An excellent guide by Cyrus S. 👇 
 
 A 5-step process for turning AI fan-out queries into better rankings and greater AI visibility: 
@@ -123,7 +123,7 @@ Read: https://lnkd.in/eUQtuss5
 - **Date:**
 - **Source type:**
 
-**Post N Extract:** 
+## **Post N Extract:** 
 
 **Image / visual note:** 
 ![Post n](n)
@@ -135,7 +135,7 @@ Read: https://lnkd.in/eUQtuss5
 - **Date:**
 - **Source type:**
 
-**Post N Extract:** 
+## **Post N Extract:** 
 
 **Image / visual note:** 
 ![Post n](n)
@@ -147,7 +147,7 @@ Read: https://lnkd.in/eUQtuss5
 - **Date:**
 - **Source type:**
 
-**Post N Extract:** 
+## **Post N Extract:** 
 
 **Image / visual note:** 
 ![Post n](n)
@@ -159,7 +159,7 @@ Read: https://lnkd.in/eUQtuss5
 - **Date:**
 - **Source type:**
 
-**Post N Extract:** 
+## **Post N Extract:** 
 
 **Image / visual note:** 
 ![Post n](n)
@@ -171,7 +171,7 @@ Read: https://lnkd.in/eUQtuss5
 - **Date:**
 - **Source type:**
 
-**Post N Extract:** 
+## **Post N Extract:** 
 
 **Image / visual note:** 
 ![Post n](n)
@@ -183,7 +183,7 @@ Read: https://lnkd.in/eUQtuss5
 - **Date:**
 - **Source type:**
 
-**Post N Extract:** 
+## **Post N Extract:** 
 
 **Image / visual note:** 
 ![Post n](n)
@@ -195,7 +195,7 @@ Read: https://lnkd.in/eUQtuss5
 - **Date:**
 - **Source type:**
 
-**Post N Extract:** 
+## **Post N Extract:** 
 
 **Image / visual note:** 
 ![Post n](n)
