@@ -89,7 +89,8 @@ Big sensory spectacle and record attempt creates high attention and lots of hook
 Fast-moving social trends are being commercialised by national chains, creating easy PR hooks for brand partnerships, limited-time promotions and influencer-driven content tied to seasonal moments.
 
 Read here: https://lnkd.in/eMAkmBP4
->>>
+<<<
+
 **Image / visual note:** 
 N.
 
