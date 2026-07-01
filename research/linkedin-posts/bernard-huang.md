@@ -6,26 +6,24 @@
 * **LinkedIn profile:** https://www.linkedin.com/in/bernardjhuang
 * **Collection method:** Manually collected from LinkedIn activity feed.
 * **Date collected:** 2026-07-01
-* **Topic focus:** AEO, GEO, AI SEO, AI search visibility, content optimization, answer engines, prompt research, query fan-out, brand citations, and AI-driven discoverability.
+* **Topic focus:** AI SEO, AI search visibility, content economics, publisher traffic loss, AI crawling, content optimization, AI prompting, product launches, analytics, and Bernard Huang’s transition from Clearscope into new AI projects.
 
 ## Selection Criteria
 
-The posts below were selected because they are directly relevant to the research topic: **AI-powered SEO content production**.
+The posts below were selected because they show Bernard Huang’s recent public thinking around AI, search, content, publishing, product building, and the changing economics of online visibility.
 
 Priority was given to posts that discuss:
 
-* Answer Engine Optimization (AEO)
-* Generative Engine Optimization (GEO)
-* AI SEO and AI search visibility
-* How brands get cited or mentioned by AI systems
-* Prompt research and query fan-out
-* Content optimization for AI-generated answers
-* Search strategy beyond traditional blue-link rankings
-* AI visibility measurement
-* Clearscope workflows, product thinking, or content optimization frameworks
-* Practical examples of how SEO work changes in an AI-first search environment
+* AI search and its impact on website traffic
+* AI bots, crawling, scraping, and publisher economics
+* The shift from traditional search traffic to AI-generated answers
+* Content visibility and discoverability in AI-driven environments
+* AI prompting, model behavior, and audit workflows
+* Product launches and traffic measurement
+* Clearscope, content optimization, and Bernard Huang’s SEO background
+* Practical examples of how AI affects websites, content, products, and search behavior
 
-Posts focused mainly on personal updates, general entrepreneurship, unrelated AI business ideas, or non-search AI experiments were not prioritized unless they helped explain Bernard Huang’s approach to AI-driven SEO, content optimization, or discoverability.
+Some posts are directly related to AI-powered SEO content production, while others provide supporting context about Bernard Huang’s broader AI work, product experimentation, and professional transition after Clearscope.
 
 ---
 
