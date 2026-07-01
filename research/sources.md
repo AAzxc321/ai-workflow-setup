@@ -39,9 +39,9 @@ International SEO and AI Search Optimization consultant. Founder of Orainti, SEO
 - She is especially useful for understanding how SEO teams can translate AI search changes into repeatable content and optimization processes.
 ### Sources
 1. **Personal Website:** [Aleyda Solís - Personal Website](https://www.aleydasolis.com/en/)
-**Date:** Accessed 2026-07-01
-**Type:** Personal website
-**Annotation:** Official website describing her work in international SEO, AI search optimization, ecommerce, marketplace, SaaS SEO, and consulting. Contact information available.
+- **Date:** Accessed 2026-07-01
+- **Type:** Personal website
+- **Annotation:** Official website describing her work in international SEO, AI search optimization, ecommerce, marketplace, SaaS SEO, and consulting. Contact information available.
 2. **Company Website:** [Aleyda Solís - Orainti](https://www.orainti.com/)
 **Type:** Company website
 **Annotation:** Boutique SEO consultancy founded by Aleyda Solís. Useful for verifying her consulting background and SEO specialization.
