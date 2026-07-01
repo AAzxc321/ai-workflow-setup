@@ -2,15 +2,15 @@
 
 ## Collection Notes
 
-- **Expert:** Aleyda Solís
-- **LinkedIn profile:** https://www.linkedin.com/in/aleyda/
-- **Collection method:** Manually collected from LinkedIn activity feed.
-- **Date collected:** 2026-07-01
-- **Topic focus:** AI search optimization, SEO measurement, AI visibility, content/search strategy, and practical AI search workflows.
+* **Expert:** Aleyda Solís
+* **LinkedIn profile:** https://www.linkedin.com/in/aleyda/
+* **Collection method:** Manually collected from LinkedIn activity feed.
+* **Date collected:** 2026-07-01
+* **Topic focus:** AI search optimization, SEO measurement, AI visibility, content/search strategy, search ecosystem monitoring, digital PR opportunities, and practical AI search workflows.
 
 ## Selection Criteria
 
-The posts below were selected because they are directly relevant to the research topic: **AI-powered SEO content production**.
+The posts below were selected because they show Aleyda Solís’ recent public thinking around AI search, SEO strategy, measurement, digital PR, and search-related marketing opportunities.
 
 Priority was given to posts that discuss:
 
@@ -19,9 +19,12 @@ Priority was given to posts that discuss:
 * SEO strategy in AI-driven search environments
 * Content and technical optimization for AI search
 * Business impact of AI-influenced search behavior
+* Query fan-out and AI visibility workflows
+* SEO news curation and search ecosystem monitoring
+* Digital PR opportunities connected to visibility, campaigns, and content angles
 * Practical frameworks, workflows, or playbooks
 
-Posts focused mainly on personal updates, event recaps, general PR campaign roundups, or community news were not prioritized unless they supported the AI search / SEO research angle.
+Some posts are directly related to AI-powered SEO content production, while others provide supporting context around digital PR, campaign monitoring, and how search professionals identify timely opportunities for content and visibility.
 
 ---
 
