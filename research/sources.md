@@ -34,6 +34,7 @@ The research focuses on: practical workflows, content quality, AI search visibil
 ## Aleyda Solís
 **Role / Company:** 
 International SEO and AI Search Optimization consultant. Founder of Orainti, SEOFOMO, and LearningAIsearch.com.
+
 **Why selected:** 
 - Her work connects practical SEO workflows with AI search optimization (AI SEO), international SEO, content quality, and structured frameworks.
 - She is especially useful for understanding how SEO teams can translate AI search changes into repeatable content and optimization processes.
