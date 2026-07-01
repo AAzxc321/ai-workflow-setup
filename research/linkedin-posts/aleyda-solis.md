@@ -42,4 +42,121 @@ Posts focused mainly on personal updates, event recaps, general PR campaign roun
 > If you haven't yet subscribed to the Crawling Mondays channel to avoid missing out, do it now 👀 Link in comments.
 
 **Image / visual note:**
-The original LinkedIn post includes an image. Image shows a screenshot of a Zoom meeting. Image not collected (deemed irrelevant).
+The original LinkedIn post includes an image. Image shows a screenshot of a Zoom meeting. Image shows a screenshot of a Zoom meeting. Image not collected because it does not add research value.
+
+---
+
+## Post 
+- **URL:** [Post n](v)
+- **Date:**
+- **Topic:**
+- **Source type:**
+
+**Post N Extract:** 
+
+**Image / visual note:** 
+N.
+
+---
+
+## Post 
+- **URL:** [Post n](v)
+- **Date:**
+- **Topic:**
+- **Source type:**
+
+**Post N Extract:** 
+
+**Image / visual note:** 
+N.
+
+---
+
+## Post 
+- **URL:** [Post n](v)
+- **Date:**
+- **Topic:**
+- **Source type:**
+
+**Post N Extract:** 
+
+**Image / visual note:** 
+N.
+
+---
+
+## Post 
+- **URL:** [Post n](v)
+- **Date:**
+- **Topic:**
+- **Source type:**
+
+**Post N Extract:** 
+
+**Image / visual note:** 
+N.
+
+---
+
+## Post 
+- **URL:** [Post n](v)
+- **Date:**
+- **Topic:**
+- **Source type:**
+
+**Post N Extract:** 
+
+**Image / visual note:** 
+N.
+
+---
+
+## Post 
+- **URL:** [Post n](v)
+- **Date:**
+- **Topic:**
+- **Source type:**
+
+**Post N Extract:** 
+
+**Image / visual note:** 
+N.
+
+---
+
+## Post 
+- **URL:** [Post n](v)
+- **Date:**
+- **Topic:**
+- **Source type:**
+
+**Post N Extract:** 
+
+**Image / visual note:** 
+N.
+
+---
+
+## Post 
+- **URL:** [Post n](v)
+- **Date:**
+- **Topic:**
+- **Source type:**
+
+**Post N Extract:** 
+
+**Image / visual note:** 
+N.
+
+---
+
+## Post 
+- **URL:** [Post n](v)
+- **Date:**
+- **Topic:**
+- **Source type:**
+
+**Post N Extract:** 
+
+**Image / visual note:** 
+N.
