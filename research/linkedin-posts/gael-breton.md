@@ -6,26 +6,26 @@
 * **LinkedIn profile:** https://www.linkedin.com/in/gael-breton/
 * **Collection method:** Manually collected from LinkedIn activity feed.
 * **Date collected:** 2026-07-01
-* **Topic focus:** AI automation, Claude Code, agentic workflows, SEO workflow automation, content operations, authority sites, digital PR, link building, AI tools for marketers, and practical AI systems for non-technical operators.
+* **Topic focus:** AI automation, Claude Code, agentic workflows, SEO workflow automation, AI-assisted content research, information gain, static websites, WordPress alternatives, prompt injection risk, authority sites, and practical AI systems for marketers.
 
 ## Selection Criteria
 
-The posts below were selected because they are relevant to the research topic: **AI-powered SEO content production**.
+The posts below were selected because they show Gael Breton’s recent public thinking around AI-assisted marketing workflows, SEO automation, content operations, and the practical use of coding agents by non-technical operators.
 
 Priority was given to posts that discuss:
 
-* AI automation for marketers and founders
 * Claude Code or coding-agent workflows
-* Agentic AI systems and reusable automation workflows
+* AI automation for marketers, founders, and SEO operators
 * SEO work that can be automated or semi-automated with AI
-* Content operations and workflow scaling
-* Digital PR, link building, and outreach automation
-* Authority site operations and content-site workflows
-* Practical AI tool selection, model choice, or API usage
-* Human-in-the-loop review for AI-generated or AI-assisted work
-* How AI changes the economics of SEO, content, and online business operations
+* Content research beyond rewriting top-ranking Google results
+* Information gain and originality in AI-assisted articles
+* AI-assisted site architecture, topical maps, and keyword workflows
+* Static websites and alternatives to plugin-heavy WordPress setups
+* Search Console, CTR optimization, content decay, cannibalization, and quick-win SEO workflows
+* Prompt injection and future black-hat AI SEO risks
+* Human judgment in AI-supported content and SEO systems
 
-Posts focused mainly on personal updates, general entrepreneurship, unrelated AI experiments, or broad business reflections were not prioritized unless they helped explain Gael Breton’s approach to AI-supported SEO, content production, automation, or workflow design.
+Some posts are directly related to AI-powered SEO content production, while others provide supporting context around AI tooling, website infrastructure, automation, and risks that may affect future SEO workflows.
 
 ---
 
