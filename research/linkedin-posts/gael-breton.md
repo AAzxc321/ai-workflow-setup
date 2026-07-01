@@ -92,6 +92,9 @@ Claude Code isn't raw material you assemble. You describe the house, it ships th
 
 If there's a real case for WP I missed, make it in the comments 👇.
 
+**Image / visual note:**
+Post contained none.
+
 ---
 
 ## Post 2
@@ -139,15 +142,8 @@ The hard part was always finding something WORTH writing. And that's what this s
 
 ## **Post N Extract:**
 
----
-
-## Post N
-
-* **URL:** [Post N](N)
-* **Date:**
-* **Source type:** LinkedIn post
-
-## **Post N Extract:**
+**Image / visual note:**
+![Post N](N)
 
 ---
 
@@ -159,15 +155,8 @@ The hard part was always finding something WORTH writing. And that's what this s
 
 ## **Post N Extract:**
 
----
-
-## Post N
-
-* **URL:** [Post N](N)
-* **Date:**
-* **Source type:** LinkedIn post
-
-## **Post N Extract:**
+**Image / visual note:**
+![Post N](N)
 
 ---
 
@@ -179,6 +168,9 @@ The hard part was always finding something WORTH writing. And that's what this s
 
 ## **Post N Extract:**
 
+**Image / visual note:**
+![Post N](N)
+
 ---
 
 ## Post N
@@ -188,6 +180,35 @@ The hard part was always finding something WORTH writing. And that's what this s
 * **Source type:** LinkedIn post
 
 ## **Post N Extract:**
+
+**Image / visual note:**
+![Post N](N)
+
+---
+
+## Post N
+
+* **URL:** [Post N](N)
+* **Date:**
+* **Source type:** LinkedIn post
+
+## **Post N Extract:**
+
+**Image / visual note:**
+![Post N](N)
+
+---
+
+## Post N
+
+* **URL:** [Post N](N)
+* **Date:**
+* **Source type:** LinkedIn post
+
+## **Post N Extract:**
+
+**Image / visual note:**
+![Post N](N)
 
 ---
 
