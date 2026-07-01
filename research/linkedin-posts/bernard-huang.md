@@ -63,17 +63,34 @@ Post contained none.
 
 ---
 
-## Post N
+## Post 2
 
-* **URL:** [Post N](N)
-* **Date:**
+* **URL:** [Post 2](https://www.linkedin.com/posts/bernardjhuang_pixel-forge-launched-on-product-hunt-last-activity-7473392841189404672-jmaB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+* **Date:** Thu, 18 Jun 2026 15:15:02 GMT (UTC)
 * **Source type:** LinkedIn post
 
-## **Post N Extract:**
+## **Post 2 Extract:**
+Pixel Forge launched on Product Hunt last week. The fun part: it actually moved the needle.
+ 
+For context, Pixel Forge had been pretty quiet traffic-wise before launch. Then launch day hit and Google Analytics suddenly looked alive: 
+- ~350 sessions on the peak day
+- direct traffic jumped the most
+- referral traffic also spiked, likely from Product Hunt and launch sharing
+- traffic didn’t disappear immediately afterward, which was a nice surprise
+ 
+This was a small launch, not some perfectly orchestrated campaign. But it was a good reminder that shipping publicly still works.
+ 
+A few things I learned:
+1. Product Hunt can still drive real traffic if the product is easy to understand.
+2. The launch day spike matters, but the follow-on traffic matters more.
+3. The best launch asset is still a product people can try in 10 seconds.
 
+Pixel Forge is a tiny AI sprite generator for game devs, indie hackers, and anyone who needs quick pixel art assets.
+
+I’m still improving it, but seeing real people show up and try it made the whole thing feel much more real.
 
 **Image / visual note:**
-![Post n](n)
+![Post 2](https://media.licdn.com/dms/image/v2/D5622AQEuhFnUhNK-IA/feedshare-image-high-res/B56Z7Ro9G9HUAU-/0/1781633635093?e=1784764800&v=beta&t=m-klmhCBNRqwJqCxIf4IXwnPRnz9mRPOHMLENjDgKnQ)
 
 ---
 
