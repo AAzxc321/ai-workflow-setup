@@ -29,13 +29,68 @@ Posts focused mainly on personal updates, general entrepreneurship, unrelated AI
 
 ---
 
-## Post N
+## Post 1
 
-* **URL:** [Post N](N)
-* **Date:**
+* **URL:** [Post 1](https://www.linkedin.com/posts/gael-breton_your-business-website-costs-5k-and-6-weeks-activity-7452952555195682816-Fgro?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+* **Date:** Thu, 23 Apr 2026 05:32:38 GMT (UTC)
 * **Source type:** LinkedIn post
 
-## **Post N Extract:**
+## **Post 1 Extract:**
+
+My "$0 website vs $5K WordPress" post hit a nerve this week.
+
+108 comments. Mostly devs. And most of them had real questions, not cope.
+
+So let's actually answer them.
+
+"What about SEO and structured data?"
+
+Astro ships cleaner semantic HTML than 90% of WordPress themes. Schema markup is a 2-line prompt. 
+
+Lighthouse on these static sites typically clears 95+ across the board on mobile. 
+
+Find me a plugin-stacked WP site doing that.
+
+"What about the client who wants to edit content?"
+
+Three options. Markdown in a Git repo if they're technical. 
+
+Decap or TinaCMS if they need a UI. 
+
+Or teach them to use Claude Code directly. Yes, really. Non-technical people describe the change in plain English and it ships. That's the whole point.
+
+"What about bookings, CRM, analytics?"
+
+Every modern SaaS ships a script tag. 
+
+Calendly, HubSpot, PostHog, Plausible. Paste in, go. Anything fancier has an API. Never was a WordPress advantage.
+
+"What about accessibility?"
+
+Static sites with semantic HTML already outscore most plugin-heavy WP stacks. The WP accessibility story is mostly held together by one WCAG plugin that half the themes don't load correctly.
+
+"Different tools for different jobs."
+
+Agreed. 
+
+WordPress still wins one category: high-frequency, multi-author, non-technical editing at scale. News sites. 
+
+Blogs with 10 staff writers. Keep it there.
+
+For everyone else? 
+
+The math stopped making sense months ago.
+
+
+The one comment that made me laugh was "why buy a house when wood is free and land is cheap."
+
+The analogy is just wrong. 
+
+The wood IS the house now. 
+
+Claude Code isn't raw material you assemble. You describe the house, it ships the house.
+
+If there's a real case for WP I missed, make it in the comments 👇.
 
 ---
 
