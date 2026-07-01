@@ -87,6 +87,14 @@ Founder of Clearscope. Currently describes himself on LinkedIn as building auton
 - **Date:** Accessed 2026-07-01
 - **Type:** LinkedIn profile
 - **Annotation:** Source for current positioning. His profile describes his Clearscope background and current focus on autonomous AI businesses.
+4. **Webinar:** [Bernard Huang - "How AEO / GEO / AI SEO Actually Works"](https://www.clearscope.io/webinars/how-aeo-geo-actually-works)
+- **Date:** 2025-12-11. Accessed 2026-07-01
+- **Type:** Webinar
+- **Annotation:** Clearscope webinar where Bernard Huang explains AI-driven search, AEO, GEO, AI SEO, citations, training data, and how brands can adapt to AI answer systems.
+5. **Webinar:** [Bernard Huang - "What’s Going On With SEO with Bernard Huang of Clearscope"](https://www.clearscope.io/webinars/whats-going-on-with-seo-with-bernard-huang)
+- **Date:** 2023-10-10. Accessed 2026-07-01
+- **Type:** Webinar
+- **Annotation:** Source for Bernard Huang’s broader views on SEO trends and the future of search.
 
 
 
