@@ -9,7 +9,7 @@
 9. Ross Simmonds
 10. Ryan Law
 
-Idea on how to format this:  
+-# Idea on how to format this:  
 ## Aleyda Solís
 
 **Role / Company:** International SEO consultant; founder of Orainti.
