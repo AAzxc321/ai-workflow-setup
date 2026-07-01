@@ -302,3 +302,50 @@ Founder of Algorythmic. VP of SEO & AI Search at Amsive.
 - **Type:** YouTube interview
 - **Annotation:** Interview source connecting AI Overviews, AI-generated content, and E-E-A-T ("Experience, Expertise, Authoritativeness, and Trustworthiness"). 
 
+---
+
+## [7/10] Matt Diggity
+
+**Role / Company:**
+Founder of Diggity Marketing. Associated with The Search Initiative and SEO case-study work.
+
+**Why selected:**
+* He publishes SEO experiments, case studies, and practical analysis based on real websites.
+* He is useful for understanding AI SEO testing, AI Overviews visibility, content optimization, and the more performance-driven side of SEO.
+
+### Sources
+
+1. **Company Website:** [Matt Diggity - Diggity Marketing](https://diggitymarketing.com/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Company / personal brand website
+- **Annotation:** Main site for Matt Diggity’s SEO content, case studies, and resources.
+
+2. **Company Website:** [Matt Diggity - The Search Initiative](https://thesearchinitiative.com/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Agency website
+- **Annotation:** SEO agency associated with Matt Diggity’s case-study and testing approach.
+
+3. **LinkedIn:** [Matt Diggity - LinkedIn](https://www.linkedin.com/in/mattdiggityseo/)
+- **Date:** Accessed 2026-07-01
+- **Type:** LinkedIn profile
+- **Annotation:** Source for current posts about AI SEO, case studies, traffic growth, and SEO experiments.
+
+4. **YouTube:** [Matt Diggity - YouTube Channel](https://www.youtube.com/MattDiggity)
+- **Date:** Accessed 2026-07-01
+- **Type:** YouTube channel
+- **Annotation:** YouTube channel focused on SEO tactics, SEO case studies, traffic growth, and digital marketing strategy.
+
+5. **Case Study:** [Matt Diggity - "AI SEO Case Study: 2300% Monthly AI Traffic Increase"](https://diggitymarketing.com/ai-overviews-seo-case-study/)
+- **Date:** 2025-06-18. Accessed 2026-07-01
+- **Type:** Case study
+- **Annotation:** Directly relevant case study showing how The Search Initiative approached AI traffic, AI Overviews visibility, and AI search optimization.
+
+6. **LinkedIn Post:** [Matt Diggity - "AI Has Changed Search Forever"](https://www.linkedin.com/posts/mattdiggityseo_ai-has-changed-search-forever-your-competitors-activity-7330137562960879616-hsmo)
+- **Date:** 2025-03-19. Accessed 2026-07-01
+- **Type:** LinkedIn post
+- **Annotation:** LinkedIn summary of the AI search traffic case study, including AI Overviews keyword visibility and AI referral traffic growth.
+
+7. **YouTube:** [Matt Diggity - "Matt Diggity on AI SEO and Personal Brands"](https://www.youtube.com/watch?v=P1fnk_GVVNo)
+* **Date:** 2026-04-25. Accessed 2026-07-01
+- **Type:** YouTube interview
+- **Annotation:** Interview source on AI SEO, personal brands, and how search may change as AI search becomes more prominent.
