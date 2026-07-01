@@ -26,20 +26,20 @@ Posts focused mainly on personal updates, event recaps, general PR campaign roun
 ---
 
 ## Post 1
-- **Title:** Crawling Mondays AI Search Roadmap Series: first two episodes recorded
 - **URL:** [Post 1](https://www.linkedin.com/posts/aleyda_the-first-two-episodes-of-crawling-mondays-activity-7478104489573560320-ecJS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
 - **Date:** Wed, 01 Jul 2026 15:17:26 GMT (UTC)
 - **Topic:** AI search education / roadmap / expert interviews
 - **Source type:** LinkedIn post
 
-**Summary:**
-Aleyda Solís announces that the first two episodes of Crawling Mondays’ AI Search Roadmap Series have been recorded. The episodes focus on what AI Search Optimization is, common misconceptions to avoid, and how to conduct AI search audience, journey, and prompt research.
+**Post 1 Extract:**
+> 📹 The first two episodes of Crawling Monday's AI Search Roadmap Series have been recorded and ready to be published in the next days, going through 👇
 
-**Relevant excerpt:**
-“AI Search Optimization: What It Is and Common Misconceptions to Avoid.”
+> * AI Search Optimization: What It Is and Common Misconceptions to Avoid with Lily Ray, Chris Green and Roxana Stingu
+> * How to Do AI Search Audience, Journey and Prompt Research with Myriam Jessier, Andy Chadwick, Dan Taylor 
 
-**Why it matters:**
-This post is relevant because it shows Aleyda building a structured educational series around AI search. It also identifies key subtopics for the research project, including audience research, journey mapping, prompt research, and misconceptions around AI search optimization.
+> If you want to learn about AI search with some of the most experienced specialists in our industry for free, you can't miss these 🔥 conversations. 
+
+> If you haven't yet subscribed to the Crawling Mondays channel to avoid missing out, do it now 👀 Link in comments.
 
 **Image / visual note:**
-The original LinkedIn post includes an image. Image not collected yet
+The original LinkedIn post includes an image. Image shows a screenshot of a Zoom meeting. Image not collected (deemed irrelevant).
