@@ -4,8 +4,7 @@ Steps completed.
 
 ### Objective
 
-This repository documents the setup process completed as part of an assessment. 
-The objective was to install the required AI tools, configure the development environment, and document the process.
+This repository documents the setup process completed as part of an assessment. The objective was to install the required AI tools, configure the development environment, and document the process.
 
 ---
 
