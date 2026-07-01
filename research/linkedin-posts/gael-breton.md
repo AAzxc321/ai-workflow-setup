@@ -103,7 +103,7 @@ Post contains none.
 * **Date:** Tue, 21 Apr 2026 10:00:26 GMT (UTC)
 * **Source type:** LinkedIn post
 
-## **Post N Extract:**
+## **Post 2 Extract:**
 Your AI articles read fine but say nothing new.
 
 That's because every AI article generator does the same thing: scrape the top 10 Google results and rewrite them.
@@ -213,7 +213,7 @@ Post contains video.
 * **Date:**  Thu, 05 Feb 2026 11:00:37 GMT (UTC)
 * **Source type:** LinkedIn post
 
-## **Post N Extract:**
+## **Post 5 Extract:**
 2027 black hat SEO = Prompt injection
 
 White text on white background. Humans can't see it, but chatbots scraping your page absolutely will.
