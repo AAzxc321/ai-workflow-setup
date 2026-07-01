@@ -94,17 +94,47 @@ I’m still improving it, but seeing real people show up and try it made the who
 
 ---
 
-## Post N
+## Post 3
 
-* **URL:** [Post N](N)
-* **Date:**
+* **URL:** [Post 3](https://www.linkedin.com/posts/bernardjhuang_i-lied-to-an-ai-yesterday-i-told-it-activity-7468006092996890624--KTA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+* **Date:** Wed, 03 Jun 2026 18:30:01 GMT (UTC)
 * **Source type:** LinkedIn post
 
-## **Post N Extract:**
+## **Post 3 Extract:**
+I lied to an AI yesterday 🤭 
 
+I told it I would lose my job if it didn't audit my work properly.
+
+It cannot understand "job." It cannot feel stress. It has nothing at stake.
+
+The audit score went from 55/81 to 68/81. The same model handed
+me 24% better work for the lie.
+
+I ran this twice.
+
+Once on an API audit — the stakes version caught 6 P0 bugs the
+polite version missed, including duplicate JSON keys in a public spec.
+
+Once on a comparison page audit — 16 of 16 dimensions scored
+at the highest level (vs 3 of 16 in the control).
+
+I had Gemini 3.1 Pro grade both runs blind. Same verdict both times:
+the stakes version was "significantly better."
+
+The thing I cannot stop thinking about:
+
+If the model gives me 24% better work when I claim I'm about to be
+ruined, what is it doing the other 99% of the time when I ask politely?
+
+Three questions I do not have answers to:
+1. Is signaling false stakes "manipulation"? Of what, exactly?
+2. If a technique only works when we lie, do we use it in production?
+3. What happens when models get good enough to call our bluff?
+
+Full methodology + every prompt below ↓
 
 **Image / visual note:**
-![Post n](n)
+![Post 3](https://media.licdn.com/dms/image/v2/D4E22AQEBh85MEfOC1g/feedshare-image-high-res/B4EZ6OEJaPK0AU-/0/1780499912707?e=1784764800&v=beta&t=txrDZfWSJMwl3-S6RZnzkgJKxsCvLHOwUt8FDIXPLe4)
 
 ---
 
