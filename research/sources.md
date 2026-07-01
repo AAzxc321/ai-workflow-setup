@@ -74,8 +74,8 @@ International SEO and AI Search Optimization consultant. Founder of Orainti, SEO
 **Role / Company:**
 
 Founder of Clearscope. Currently describes himself on LinkedIn as building autonomous AI businesses.
-**Why selected:**
 
+**Why selected:**
 - His work is closely tied to SEO content optimization, AI search visibility, AEO / GEO, topical authority, and content systems.
 - Clearscope is directly relevant to AI-powered content production because it helps teams optimize content for search and emerging answer engines.
 ### Sources
@@ -115,8 +115,8 @@ Founder of Clearscope. Currently describes himself on LinkedIn as building auton
 **Role / Company:**
 
 Co-founder of Authority Hacker.
-**Why selected:**
 
+**Why selected:**
 * His work focuses on practical content operations, authority sites, AI automation, SEO systems, and workflow design.
 * He is useful for understanding how operators use automation and AI tools to scale research, content workflows, and digital marketing systems while keeping a human review layer.
 
