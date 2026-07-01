@@ -1,6 +1,6 @@
 # Research Sources
-
-### Topic: 
+---
+## Topic 
 AI-powered SEO content production.
 
 ## Research Objective
