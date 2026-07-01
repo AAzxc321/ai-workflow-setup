@@ -349,3 +349,99 @@ Founder of Diggity Marketing. Associated with The Search Initiative and SEO case
 * **Date:** 2026-04-25. Accessed 2026-07-01
 - **Type:** YouTube interview
 - **Annotation:** Interview source on AI SEO, personal brands, and how search may change as AI search becomes more prominent.
+
+---
+
+## [8/10] Michael King
+
+**Role / Company:**
+Founder and CEO of iPullRank.
+
+**Why selected:**
+- His work connects technical SEO, information retrieval, machine learning, content strategy, Google systems, and generative AI.
+- He is useful for understanding the technical foundations behind AI search and why content needs to be structured for retrieval, relevance, and passage selection.
+
+### Sources
+
+1. **Resource Hub:** [Michael King - "Best of Mike King"](https://ipullrank.com/resources/best-of-mike-king)
+- **Date:** Accessed 2026-07-01
+- **Type:** Official profile / resource hub
+- **Annotation:** iPullRank resource hub describing Michael King’s work, talks, and major SEO contributions.
+
+2. **Company Website:** [Michael King - iPullRank](https://ipullrank.com/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Company website
+- **Annotation:** Agency website for iPullRank, focused on SEO, content strategy, technical SEO, and AI search-related work.
+
+3. **LinkedIn:** [Michael King - LinkedIn](https://www.linkedin.com/in/michaelkingphilly)
+- **Date:** Accessed 2026-07-01
+- **Type:** LinkedIn profile
+- **Annotation:** Source for current positioning, iPullRank background, and recent posts about AI search, relevance engineering, and technical SEO.
+
+4. **Article:** [Michael King - "How AI Mode Works and How SEO Can Prepare"](https://ipullrank.com/how-ai-mode-works)
+- **Date:** 2025-05-27. Accessed 2026-07-01
+- **Type:** Article
+- **Annotation:** Directly relevant source explaining Google AI Mode, AI search, visibility, citations, passage selection, and machine-mediated relevance.
+
+5. **Webinar:** [Michael King - "The Google Algo Leak: Actionable Insights, Best New Practices, and Killer Tactics"](https://ipullrank.com/resources/webinars/google-algorithm-leak)
+- **Date:** 2024-06-26. Accessed 2026-07-01
+- **Type:** Webinar
+- **Annotation:** Source on Google algorithm leak analysis, testable hypotheses, SEO experiments, and how technical findings can shape SEO strategy.
+
+6. **Author Profile:** [Michael King - Search Engine Land Author Profile](https://searchengineland.com/author/michael-king)
+- **Date:** Accessed 2026-07-01
+- **Type:** Author profile / third-party articles
+- **Annotation:** Third-party author profile for Michael King’s SEO and technical search writing.
+
+7. **Podcast / Interview:** [Michael King - "How to Show Up in AI Results with Relevance Engineering"](https://www.buzzstream.com/blog/relevance-engineering-podcast/)
+- **Date:** 2025-09-26. Accessed 2026-07-01
+- **Type:** Podcast / interview
+- **Annotation:** Interview source on relevance engineering, AI results, and how brands can appear in generative search.
+
+---
+
+## [9/10] Ross Simmonds
+
+**Role / Company:**
+Founder and CEO of Foundation. Founder of Distribution.ai.
+
+**Why selected:**
+* His work focuses on B2B SaaS content strategy, content distribution, repurposing, and AI-assisted distribution systems.
+* He is useful for understanding what happens after content is created: how content gets distributed, reused, and turned into business outcomes.
+
+### Sources
+
+1. **Personal Website:** [Ross Simmonds - Personal Website](https://rosssimmonds.com/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Personal website
+- **Annotation:** Official website describing his work in content marketing, SEO, content distribution, and technology.
+
+2. **Company Profile:** [Ross Simmonds - Foundation Profile](https://foundationinc.co/team/ross-simmonds/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Company / team profile
+- **Annotation:** Foundation profile describing Ross Simmonds as the founder of Foundation and providing background on his content marketing work.
+
+3. **Company Website:** [Ross Simmonds - Distribution.ai](https://www.distribution.ai/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Product / company website
+- **Annotation:** AI content repurposing and distribution platform. Relevant to the content distribution layer of AI-powered content production.
+
+4. **LinkedIn:** [Ross Simmonds - LinkedIn](https://www.linkedin.com/in/rosssimmonds)
+- **Date:** Accessed 2026-07-01
+- **Type:** LinkedIn profile
+- **Annotation:** Source for current positioning as CEO of Foundation and Distribution.ai, and for recent posts about AI, content distribution, Reddit, growth, and SaaS.
+
+5. **Article / Strategy Guide:** [Ross Simmonds - "B2B Content Distribution Strategy for AI & Buyer Visibility"](https://foundationinc.co/lab/content-distribution-strategy/)
+- **Date:** 2026-05-18. Accessed 2026-07-01
+- **Type:** Article / strategy guide
+- **Annotation:** Directly relevant source on distribution strategy, AI citations, off-site authority, repurposing, and content supply chains.
+
+6. **Article / Guide:** [Ross Simmonds - "The Ultimate Guide to AI Content Distribution for 10X Growth"](https://www.distribution.ai/blog/ai-content-distribution)
+- **Date:** 2025-04-28. Accessed 2026-07-01
+- **Type:** Article / guide
+- **Annotation:** Relevant source on AI content distribution, content repurposing, and scaling content reach across channels.
+
+7. **LinkedIn Post:** [Ross Simmonds - "How to Repurpose Content with AI"](https://www.linkedin.com/posts/rosssimmonds_a-guide-to-automating-your-content-distribution-activity-7359552044686303233-QtIw)
+- **Date:** 2025-08-08. Accessed 2026-07-01
+- **Type:** LinkedIn post
+- **Annotation:** Practical post about using AI to repurpose one asset into multiple formats and distribute content more efficiently.
