@@ -94,13 +94,40 @@ If there's a real case for WP I missed, make it in the comments 👇.
 
 ---
 
-## Post N
+## Post 2
 
-* **URL:** [Post N](N)
-* **Date:**
+* **URL:** [Post 2](https://www.linkedin.com/posts/gael-breton_your-ai-articles-read-fine-but-say-nothing-activity-7452295174195507200-4ks2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+* **Date:** Tue, 21 Apr 2026 10:00:26 GMT (UTC)
 * **Source type:** LinkedIn post
 
 ## **Post N Extract:**
+Your AI articles read fine but say nothing new.
+
+That's because every AI article generator does the same thing: scrape the top 10 Google results and rewrite them.
+
+The output is grammatically perfect, well-structured, and completely useless. Zero information gain. Just the same recycled advice in a slightly different order.
+
+We've spent almost two decades trying to make really good content. This was the thing that finally cracked it.
+
+The trick isn't better writing. It's better research.
+
+A sub-agent roleplays as someone who just googled your keyword. It reads what's out there and asks: "what am I STILL frustrated about? What didn't these articles answer?"
+
+Think of it as hiring a really picky reader who tells you exactly where the existing content falls short.
+
+Then a research agent goes hunting. YouTube tutorials, Reddit threads, Twitter discussions. The places where people share what they actually learned, not what ranks on Google.
+
+The result?
+
+We wrote a Meta ads article where the core advice was a "2-campaign loop" strategy... run a test campaign, find winners, scale them separately.
+
+The kind of thing I usually only hear at conferences from people who actually scale ad budgets.
+
+That insight came from a Reddit thread. Not from the top 10 Google results.
+
+Claude handles the writing section by section. Honestly the easy bit now.
+
+The hard part was always finding something WORTH writing. And that's what this solves.
 
 ---
 
