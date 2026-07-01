@@ -30,7 +30,7 @@ Posts focused mainly on personal updates, event recaps, general PR campaign roun
 - **Date:** Wed, 01 Jul 2026 15:17:26 GMT (UTC)
 - **Source type:** LinkedIn post
 
-**Post 1 Extract:**
+## **Post 1 Extract:**
 📹 The first two episodes of Crawling Monday's AI Search Roadmap Series have been recorded and ready to be published in the next days, going through 👇
 
 * AI Search Optimization: What It Is and Common Misconceptions to Avoid with Lily Ray, Chris Green and Roxana Stingu
@@ -48,7 +48,7 @@ The original LinkedIn post includes an image. Image shows a screenshot of a Zoom
 ## Post 2
 - **URL:** [Post 2](https://www.linkedin.com/posts/aleyda_trendingcampaigns-activity-7477631083736633347-4whg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
 - **Date:** Tue, 30 Jun 2026 07:56:18 GMT (UTC)
-- **Source type:** LinkedIn post. 
+- **Source type:** LinkedIn post
 
 ## **Post 2 Extract:** 
 
@@ -98,7 +98,7 @@ Read here: https://lnkd.in/eMAkmBP4
 ## Post 3
 - **URL:** [Post 3](https://www.linkedin.com/posts/aleyda_fan-out-framework-5-steps-to-improve-seo-activity-7477376945052262400-1b5W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
 - **Date:** Mon, 29 Jun 2026 15:06:26 GMT (UTC)
-- **Source type:** LinkedIn post. 
+- **Source type:** LinkedIn post
 
 ## **Post 3 Extract:** 
 Fan-out Framework: 5 Steps to Improve SEO and AI Visibility - An excellent guide by Cyrus S. 👇 
@@ -121,7 +121,7 @@ Read: https://lnkd.in/eUQtuss5
 ## Post 4
 - **URL:** [Post 4](https://www.linkedin.com/posts/aleyda_seofomo-activity-7477028558436130816-ezA5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
 - **Date:**  Sun, 28 Jun 2026 16:02:04 GMT (UTC)
-- **Source type:** LinkedIn post. 
+- **Source type:** LinkedIn post
 
 ## **Post 4 Extract:** 
 🚨 A new Spam Update and More SEO & AI Search News [From hashtag#SEOFOMO, June 28, 2026] 👇
