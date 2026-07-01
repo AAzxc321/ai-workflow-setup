@@ -47,7 +47,7 @@ International SEO and AI Search Optimization consultant. Founder of Orainti, SEO
 2. **Company Website:** [Aleyda Solís - Orainti](https://www.orainti.com/)
 - **Type:** Company website
 - **Annotation:** Boutique SEO consultancy founded by Aleyda Solís. Useful for verifying her consulting background and SEO specialization.
-3. **Linkedin:** [Aleyda Solís - LinkedIn](https://www.linkedin.com/in/aleyda/)
+3. **LinkedIn:** [Aleyda Solís - LinkedIn](https://www.linkedin.com/in/aleyda/)
 - **Date:** Accessed 2026-07-01
 - **Type:** LinkedIn profile
 - **Annotation:** Source for current positioning, recent posts, AI search topics, and professional background.
