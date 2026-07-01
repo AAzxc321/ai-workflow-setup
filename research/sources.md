@@ -1,10 +1,10 @@
-Michael King
-Aleyda Solís
-Kevin Indig
-Lily Ray
-Ryan Law
-Bernard Huang
-Ross Simmonds
-Matt Diggity
-Gael Breton
-Julian Goldie
+1. Michael King
+2. Aleyda Solís
+3. Kevin Indig
+4. Lily Ray
+5. Ryan Law
+6. Bernard Huang
+7. Ross Simmonds
+8. Matt Diggity
+9. Gael Breton
+10. Julian Goldie
