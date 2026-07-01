@@ -1,13 +1,13 @@
 # Research Sources
-## Topic
-### AI-powered SEO content production.
+### Topic
+AI-powered SEO content production.
 
 ## Research Objective
 The goal of this research is to understand how experienced SEO and content practitioners use AI to improve research, content planning, optimization, production, distribution, and AI search visibility. The objective is to know how to use it without relying on low-quality automated content.
 
 The research focuses on: practical workflows, content quality, AI search visibility, semantic SEO, answer engine optimization, content operations, and distribution.
 
-### Expert Selection Criteria
+## Expert Selection Criteria
 Experts were selected based on:
 
 Public experience in SEO, content marketing, AI search, content operations, or content optimization.
