@@ -56,43 +56,42 @@ The original LinkedIn post includes an image. Image shows a screenshot of a Zoom
 
 🔥 Top PR Campaigns of the Week
 
->1. Manifesto Library at Livraria Lello
+> 1. Manifesto Library at Livraria Lello
 
->Dua Lipa, via her Service95 Book Club, opened the Manifesto Library inside Porto’s historic Livraria Lello as part of the BABELL festival — a permanent curated collection of nearly 100 banned or censored books organised around themes of power, control, voice and memory to spark conversation and challenge censorship.
+> Dua Lipa, via her Service95 Book Club, opened the Manifesto Library inside Porto’s historic Livraria Lello as part of the BABELL festival — a permanent curated collection of nearly 100 banned or censored books organised around themes of power, control, voice and memory to spark conversation and challenge censorship.
 
->A globally famous tastemaker installed a permanent, provocative collection in an iconic venue, tying censorship to a timely free-speech news cycle.
+> A globally famous tastemaker installed a permanent, provocative collection in an iconic venue, tying censorship to a timely free-speech news cycle.
 
->2. Louis Vuitton Cité Universitaire Waterfall
+> 2. Louis Vuitton Cité Universitaire Waterfall
 
-Louis Vuitton installed an eight-metre artificial waterfall and sand-covered runway at the Cité Universitaire for Pharrell Williams’ Spring–Summer 2027 show during a record heatwave in Paris, a spectacle designed to generate media attention and cultural conversation but criticised for perceived insensitivity and use of public space and water resources.
+> Louis Vuitton installed an eight-metre artificial waterfall and sand-covered runway at the Cité Universitaire for Pharrell Williams’ Spring–Summer 2027 show during a record heatwave in Paris, a spectacle designed to generate media attention and cultural conversation but criticised for perceived insensitivity and use of public space and water resources.
 
 It hijacked a live heatwave news cycle with a visually jarring waterfall-in-drought image that triggered policy, resident, and brand-power tensions.
 
-3. Pink Drink Bearista Cup Relaunch
+> 3. Pink Drink Bearista Cup Relaunch
 
-Starbucks re-released its viral Bearista glass as a Pink Drink–inspired Cold Cup — a collectible glass featuring the bear in a pink hat with a strawberry straw topper — and staggered availability (Starbucks Shop Reserve early access on July 9, wider select in-store release July 13, two-per-customer limit) to drive buzz and scarcity-driven coverage.
+> Starbucks re-released its viral Bearista glass as a Pink Drink–inspired Cold Cup — a collectible glass featuring the bear in a pink hat with a strawberry straw topper — and staggered availability (Starbucks Shop Reserve early access on July 9, wider select in-store release July 13, two-per-customer limit) to drive buzz and scarcity-driven coverage.
 
-It turned last year’s sell-out into a timed “drop,” using membership-gated early access and strict limits to manufacture urgency and headlines.
+> It turned last year’s sell-out into a timed “drop,” using membership-gated early access and strict limits to manufacture urgency and headlines.
 
-🔥 Top PR Opportunities 
+> 🔥 Top PR Opportunities 
 
-1. Prime Day deal roundup
+> 1. Prime Day deal roundup
 
-Retailers and consumer brands can use the live-verification angle to counter price claims, pitch timely deal-focused stories, or tie product giveaways to trending discounts.
+> Retailers and consumer brands can use the live-verification angle to counter price claims, pitch timely deal-focused stories, or tie product giveaways to trending discounts.
 
-2. America's 250th fireworks extravaganza
+> 2. America's 250th fireworks extravaganza
 
-Big sensory spectacle and record attempt creates high attention and lots of hook opportunities for brands around safety messaging, experiential activations, partnerships, and local hospitality.
+> Big sensory spectacle and record attempt creates high attention and lots of hook opportunities for brands around safety messaging, experiential activations, partnerships, and local hospitality.
 
-3. Chains add TikTok food trends to menus
+> 3. Chains add TikTok food trends to menus
 
-Fast-moving social trends are being commercialised by national chains, creating easy PR hooks for brand partnerships, limited-time promotions and influencer-driven content tied to seasonal moments.
+> Fast-moving social trends are being commercialised by national chains, creating easy PR hooks for brand partnerships, limited-time promotions and influencer-driven content tied to seasonal moments.
 
-Read here: https://lnkd.in/eMAkmBP4
-
+> Read here: https://lnkd.in/eMAkmBP4
 
 **Image / visual note:** 
-N.
+![alt text](https://media.licdn.com/dms/image/v2/D4E22AQE8XGyIcJmz0Q/feedshare-shrink_1280/B4EZ8Xh165IcAM-/0/1782806176102?e=1784764800&v=beta&t=zIJRKYX6q4QIVMXEjPWRY1KLjGqmouxEFLS-6MMYHPI)
 
 ---
 
