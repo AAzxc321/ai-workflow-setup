@@ -205,5 +205,52 @@ Founder of Goldie Agency. Creator of Julian Goldie SEO.
 - **Type:** LinkedIn post
 - **Annotation:** Tactical LinkedIn post describing an AI + YouTube + SEO content workflow. Useful as an example of automation-heavy SEO experimentation.
 
+---
+
+## Kevin Indig
+
+**Role / Company:**
+Organic growth advisor. Author of Growth Memo. Former SEO / growth leader at companies including Shopify, G2, and Atlassian.
+
+**Why selected:**
+- His work connects AI search, SEO strategy, organic growth, measurement, and business impact.
+- He is useful for understanding how AI search changes visibility, attribution, content economics, and growth planning at a strategic level.
+
+### Sources
+
+1. **Personal Website:** [Kevin Indig - Personal Website](https://www.kevin-indig.com/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Personal website
+- **Annotation:** Official website for Kevin Indig’s work as an organic growth advisor and writer.
+
+2. **Newsletter:** [Kevin Indig - Growth Memo](https://www.growth-memo.com/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Newsletter / publication
+- **Annotation:** Main publication where Kevin Indig writes about SEO, organic growth, AI search, and search behavior.
+
+3. **LinkedIn:** [Kevin Indig - LinkedIn](https://www.linkedin.com/in/kevinindig/)
+- **Date:** Accessed 2026-07-01
+- **Type:** LinkedIn profile
+- **Annotation:** Source for current positioning, advisory work, and recent posts about AI search and organic growth.
+
+4. **Newsletter Article:** [Kevin Indig - "State of AI Search Optimization 2026"](https://www.growth-memo.com/p/state-of-ai-search-optimization-2026)
+- **Date:** 2026-01-05. Accessed 2026-07-01
+- **Type:** Newsletter article
+- **Annotation:** Strategic source on AI search optimization, retrieval, citations, trust factors, and how brands should think about visibility in answer-first search systems.
+
+5. **Newsletter Article:** [Kevin Indig - "AI Is Breaking the Economics of Content"](https://www.growth-memo.com/p/ai-is-breaking-the-economics-of-content)
+- **Date:** 2025-10-27. Accessed 2026-07-01
+- **Type:** Newsletter article
+- **Annotation:** Useful source on how AI search changes content economics, content value, and the difference between generic evergreen content and additive content.
+
+6. **Research / Newsletter Article:** [Kevin Indig - "The First-Ever UX Study of Google's AI Overviews"](https://www.growth-memo.com/p/the-first-ever-ux-study-of-googles)
+- **Date:** 2025-05-12. Accessed 2026-07-01
+- **Type:** Research / newsletter article
+- **Annotation:** Research source on user behavior in Google AI Overviews and how AI search changes clicks, trust, and discovery behavior.
+
+7. **YouTube:** [Kevin Indig - "Google Will Kill Your Traffic - Here’s How You Adapt"](https://www.youtube.com/watch?v=jQXvbeYF5go)
+- **Date:** 2025-08-26. Accessed 2026-07-01
+- **Type:** YouTube interview / podcast episode
+- **Annotation:** Long-form interview with Kevin Indig on AI Overviews, search traffic, and adapting SEO strategy in an AI-first search environment.
 
 
