@@ -49,6 +49,7 @@ The original LinkedIn post includes an image. Image shows a screenshot of a Zoom
 - **URL:** [Post 2](https://www.linkedin.com/posts/aleyda_trendingcampaigns-activity-7477631083736633347-4whg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
 - **Date:** Tue, 30 Jun 2026 07:56:18 GMT (UTC)
 - **Source type:** LinkedIn post
+- **Relevance:** Medium relevance. Mainly relevant due to being a recent post. 
 
 ## **Post 2 Extract:** 
 
