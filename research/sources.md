@@ -162,6 +162,7 @@ Co-founder of Authority Hacker.
 ## [4/10] Julian Goldie
 
 **Role / Company:**
+
 Founder of Goldie Agency. Creator of Julian Goldie SEO.
 
 **Why selected:**
@@ -210,6 +211,7 @@ Founder of Goldie Agency. Creator of Julian Goldie SEO.
 ## [5/10] Kevin Indig
 
 **Role / Company:**
+
 Organic growth advisor. Author of Growth Memo. Former SEO / growth leader at companies including Shopify, G2, and Atlassian.
 
 **Why selected:**
@@ -259,6 +261,7 @@ Organic growth advisor. Author of Growth Memo. Former SEO / growth leader at com
 ## [6/10] Lily Ray
 
 **Role / Company:**
+
 Founder of Algorythmic. VP of SEO & AI Search at Amsive.
 
 **Why selected:**
@@ -307,6 +310,7 @@ Founder of Algorythmic. VP of SEO & AI Search at Amsive.
 ## [7/10] Matt Diggity
 
 **Role / Company:**
+
 Founder of Diggity Marketing. Associated with The Search Initiative and SEO case-study work.
 
 **Why selected:**
@@ -355,6 +359,7 @@ Founder of Diggity Marketing. Associated with The Search Initiative and SEO case
 ## [8/10] Michael King
 
 **Role / Company:**
+
 Founder and CEO of iPullRank.
 
 **Why selected:**
@@ -403,6 +408,7 @@ Founder and CEO of iPullRank.
 ## [9/10] Ross Simmonds
 
 **Role / Company:**
+
 Founder and CEO of Foundation. Founder of Distribution.ai.
 
 **Why selected:**
