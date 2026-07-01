@@ -292,7 +292,7 @@ Founder of Algorythmic. VP of SEO & AI Search at Amsive.
 - **Annotation:** Relevant source on AI-generated misinformation, AI slop, and why source verification matters in AI search and SEO content.
 
 6. **Webinar / Article:** [Lily Ray - "AEO in Plain English with Lily Ray"](https://www.amsive.com/insights/seo/aeo-in-plain-english-with-lily-ray/)
-- **Date:** 2025-12-16. Accessed 2026-07-01
+- **Date:** Accessed 2026-07-01
 - **Type:** Webinar / article
 - **Annotation:** Practical source on AEO, AI search visibility, hype vs. reality, SEO fundamentals, query fan-out, and owned / earned / social signals.
 
