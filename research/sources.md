@@ -11,12 +11,13 @@ The research focuses on: practical workflows, content quality, AI search visibil
 ## Expert Selection Criteria
 Experts were selected based on:
 
-Public experience in SEO, content marketing, AI search, content operations, or content optimization.
-Evidence of practical work, case studies, tools, experiments, client work, or operating experience.
-Relevance to AI-powered SEO content production.
-Availability of public content that can support a future research playbook.
-A mix of technical SEO, content strategy, AI search, editorial quality, automation, and distribution.
+- Public experience in SEO, content marketing, AI search, content operations, or content optimization.
+- Evidence of practical work, case studies, tools, experiments, client work, or operating experience.
+- Relevance to AI-powered SEO content production.
+- Availability of public content that can support a future research playbook.
+- A mix of technical SEO, content strategy, AI search, editorial quality, automation, and distribution.
 
+Experts selected:
 1. Aleyda Solís
 2. Bernard Huang
 3. Gael Breton
