@@ -54,7 +54,7 @@ The original LinkedIn post includes an image. Image shows a screenshot of a Zoom
 
 >📣 This Week's PR Campaigns & Opportunities [June 30, 2026] from hashtag#TrendingCampaigns 👇 
 
-🔥 Top PR Campaigns of the Week
+> 🔥 Top PR Campaigns of the Week
 
 > 1. Manifesto Library at Livraria Lello
 
@@ -66,7 +66,7 @@ The original LinkedIn post includes an image. Image shows a screenshot of a Zoom
 
 > Louis Vuitton installed an eight-metre artificial waterfall and sand-covered runway at the Cité Universitaire for Pharrell Williams’ Spring–Summer 2027 show during a record heatwave in Paris, a spectacle designed to generate media attention and cultural conversation but criticised for perceived insensitivity and use of public space and water resources.
 
-It hijacked a live heatwave news cycle with a visually jarring waterfall-in-drought image that triggered policy, resident, and brand-power tensions.
+> It hijacked a live heatwave news cycle with a visually jarring waterfall-in-drought image that triggered policy, resident, and brand-power tensions.
 
 > 3. Pink Drink Bearista Cup Relaunch
 
@@ -95,15 +95,26 @@ It hijacked a live heatwave news cycle with a visually jarring waterfall-in-drou
 
 ---
 
-## Post 
-- **URL:** [Post n](v)
-- **Date:**
-- **Source type:**
+## Post 3
+- **URL:** [Post 3](https://www.linkedin.com/posts/aleyda_fan-out-framework-5-steps-to-improve-seo-activity-7477376945052262400-1b5W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+- **Date:** Mon, 29 Jun 2026 15:06:26 GMT (UTC)
+- **Source type:** LinkedIn post. 
 
-**Post N Extract:** 
+**Post 3 Extract:** 
+> Fan-out Framework: 5 Steps to Improve SEO and AI Visibility - An excellent guide by Cyrus S. 👇 
+
+> A 5-step process for turning AI fan-out queries into better rankings and greater AI visibility: 
+
+> 1. Find a keyword topic you already rank for
+> 2. Find Fan-out Queries
+> 3. Determine Your Most Important Fan-out Topics
+> 4. Optimize for the Fan-out Queries
+> 5. Measure The Results
+
+> Read: https://lnkd.in/eUQtuss5
 
 **Image / visual note:** 
-N.
+![Post 3](https://media.licdn.com/dms/image/v2/D4E22AQHLR2680pFoPg/feedshare-shrink_1280/B4EZ8T6tU5HkAM-/0/1782745585255?e=1784764800&v=beta&t=DZhrxQbmxUsPe0MOehy-R_Z_i7-PT8ej1STcgq2soUk)
 
 ---
 
@@ -115,7 +126,7 @@ N.
 **Post N Extract:** 
 
 **Image / visual note:** 
-N.
+![Post n](n)
 
 ---
 
@@ -127,7 +138,7 @@ N.
 **Post N Extract:** 
 
 **Image / visual note:** 
-N.
+![Post n](n)
 
 ---
 
@@ -139,7 +150,7 @@ N.
 **Post N Extract:** 
 
 **Image / visual note:** 
-N.
+![Post n](n)
 
 ---
 
@@ -151,7 +162,7 @@ N.
 **Post N Extract:** 
 
 **Image / visual note:** 
-N.
+![Post n](n)
 
 ---
 
@@ -163,7 +174,7 @@ N.
 **Post N Extract:** 
 
 **Image / visual note:** 
-N.
+![Post n](n)
 
 ---
 
@@ -175,7 +186,7 @@ N.
 **Post N Extract:** 
 
 **Image / visual note:** 
-N.
+![Post n](n)
 
 ---
 
@@ -187,4 +198,4 @@ N.
 **Post N Extract:** 
 
 **Image / visual note:** 
-N.
+![Post n](n)
