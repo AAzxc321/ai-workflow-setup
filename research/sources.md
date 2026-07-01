@@ -76,9 +76,17 @@ Founder of Clearscope. Currently describes himself on LinkedIn as building auton
 - Clearscope is directly relevant to AI-powered content production because it helps teams optimize content for search and emerging answer engines.
 ### Sources
 1. **Personal Website:** [Bernard Huang - Personal Website](https://bernardjhuang.com/)
-* **Date:** Accessed 2026-07-01
-* **Type:** Personal website
-* **Annotation:** Official personal website describing Bernard Huang as the founder of Clearscope and summarizing his work in content-first SEO.
+- **Date:** Accessed 2026-07-01
+- **Type:** Personal website
+- **Annotation:** Official personal website describing Bernard Huang as the founder of Clearscope and summarizing his work in content-first SEO.
+2. **Company Website:** [Bernard Huang - Clearscope](https://www.clearscope.io/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Company website
+- **Annotation:** Clearscope positions itself around ranking in Google and getting cited in AI. Relevant for AI search visibility and content optimization.
+3. **LinkedIn:** [Bernard Huang - LinkedIn](https://www.linkedin.com/in/bernardjhuang)
+- **Date:** Accessed 2026-07-01
+- **Type:** LinkedIn profile
+- **Annotation:** Source for current positioning. His profile describes his Clearscope background and current focus on autonomous AI businesses.
 
 
 
