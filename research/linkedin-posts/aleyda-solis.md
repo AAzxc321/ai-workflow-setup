@@ -26,12 +26,11 @@ Posts focused mainly on personal updates, event recaps, general PR campaign roun
 ---
 
 ## Post 1
-
-**Title:** Crawling Mondays AI Search Roadmap Series: first two episodes recorded
-**URL:** [Post 1](https://www.linkedin.com/posts/aleyda_the-first-two-episodes-of-crawling-mondays-activity-7478104489573560320-ecJS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
-**Date:** Wed, 01 Jul 2026 15:17:26 GMT (UTC)
-**Topic:** AI search education / roadmap / expert interviews
-**Source type:** LinkedIn post
+- **Title:** Crawling Mondays AI Search Roadmap Series: first two episodes recorded
+- **URL:** [Post 1](https://www.linkedin.com/posts/aleyda_the-first-two-episodes-of-crawling-mondays-activity-7478104489573560320-ecJS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+- **Date:** Wed, 01 Jul 2026 15:17:26 GMT (UTC)
+- **Topic:** AI search education / roadmap / expert interviews
+- **Source type:** LinkedIn post
 
 **Summary:**
 Aleyda Solís announces that the first two episodes of Crawling Mondays’ AI Search Roadmap Series have been recorded. The episodes focus on what AI Search Optimization is, common misconceptions to avoid, and how to conduct AI search audience, journey, and prompt research.
