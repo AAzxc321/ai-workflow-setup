@@ -104,6 +104,55 @@ Founder of Clearscope. Currently describes himself on LinkedIn as building auton
 - **Type:** Webinar
 - **Annotation:** Relevant source on helpful content, information gain, SERP similarity, LLMs, and how SEO content should adapt in the era of generative AI.
 
+---
+
+## Gael Breton
+
+**Role / Company:**
+Co-founder of Authority Hacker.
+**Why selected:**
+
+* His work focuses on practical content operations, authority sites, AI automation, SEO systems, and workflow design.
+* He is useful for understanding how operators use automation and AI tools to scale research, content workflows, and digital marketing systems while keeping a human review layer.
+
+### Sources
+
+1. **Author Profile:** [Gael Breton - Authority Hacker Author Profile](https://www.authorityhacker.com/authors/gael-breton/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Author / company profile
+- **Annotation:** Official Authority Hacker profile describing Gael Breton as an AI strategist and co-founder of Authority Hacker.
+
+2. **Company Website:** [Gael Breton - Authority Hacker](https://www.authorityhacker.com/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Company website
+- **Annotation:** Main Authority Hacker website. Useful for verifying the brand’s focus on SEO, content marketing, authority sites, AI, automation, and online business systems.
+
+3. **LinkedIn:** [Gael Breton - LinkedIn](https://www.linkedin.com/in/gael-breton/)
+- **Date:** Accessed 2026-07-01
+- **Type:** LinkedIn profile
+- **Annotation:** Source for current positioning, recent posts, and active topics around AI, automation, and Authority Hacker.
+
+4. **Podcast:** [Gael Breton - Authority Hacker Podcast](https://www.authorityhacker.com/podcast/)
+- **Date:** Accessed 2026-07-01
+- **Type:** Podcast archive
+- **Annotation:** Long-form source for discussions on SEO, AI automation, content operations, authority sites, and online business systems.
+
+5. **YouTube:** [Gael Breton - Authority Hacker YouTube Channel](https://www.youtube.com/c/AuthorityHacker)
+- **Date:** Accessed 2026-07-01
+- **Type:** YouTube channel
+- **Annotation:** YouTube channel connected to the Authority Hacker Podcast, useful for collecting recent AI automation and SEO workflow videos.
+
+6. **LinkedIn Post:** [Gael Breton - "Think OpenAI is the king for automation?"](https://www.linkedin.com/posts/gael-breton_think-openai-is-the-king-for-automation-activity-7326589391483621376-p8Cf)
+- **Date:** Exact date to verify. Accessed 2026-07-01
+- **Type:** LinkedIn post
+- **Annotation:** Practical post discussing AI model choice for API calls and automation. Relevant to AI workflow design and cost/performance thinking.
+
+7. **Podcast / Article:** [Gael Breton - "How AI Is Reshaping Digital PR Workflows"](https://www.buzzstream.com/blog/ai-digital-pr-podcast/)
+- **Date:** 2025-06-19. Accessed 2026-07-01
+- **Type:** Podcast / article
+- **Annotation:** Relevant source on AI-supported digital PR workflows, automation, link building, and tools such as n8n, Apify, and Zapier.
+
+
 
 
 
