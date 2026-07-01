@@ -52,18 +52,17 @@ The original LinkedIn post includes an image. Image shows a screenshot of a Zoom
 
 **Post 2 Extract:** 
 
->>>
-📣 This Week's PR Campaigns & Opportunities [June 30, 2026] from hashtag#TrendingCampaigns 👇 
+>📣 This Week's PR Campaigns & Opportunities [June 30, 2026] from hashtag#TrendingCampaigns 👇 
 
 🔥 Top PR Campaigns of the Week
 
-1. Manifesto Library at Livraria Lello
+>1. Manifesto Library at Livraria Lello
 
-Dua Lipa, via her Service95 Book Club, opened the Manifesto Library inside Porto’s historic Livraria Lello as part of the BABELL festival — a permanent curated collection of nearly 100 banned or censored books organised around themes of power, control, voice and memory to spark conversation and challenge censorship.
+>Dua Lipa, via her Service95 Book Club, opened the Manifesto Library inside Porto’s historic Livraria Lello as part of the BABELL festival — a permanent curated collection of nearly 100 banned or censored books organised around themes of power, control, voice and memory to spark conversation and challenge censorship.
 
-A globally famous tastemaker installed a permanent, provocative collection in an iconic venue, tying censorship to a timely free-speech news cycle.
+>A globally famous tastemaker installed a permanent, provocative collection in an iconic venue, tying censorship to a timely free-speech news cycle.
 
-2. Louis Vuitton Cité Universitaire Waterfall
+>2. Louis Vuitton Cité Universitaire Waterfall
 
 Louis Vuitton installed an eight-metre artificial waterfall and sand-covered runway at the Cité Universitaire for Pharrell Williams’ Spring–Summer 2027 show during a record heatwave in Paris, a spectacle designed to generate media attention and cultural conversation but criticised for perceived insensitivity and use of public space and water resources.
 
@@ -90,7 +89,7 @@ Big sensory spectacle and record attempt creates high attention and lots of hook
 Fast-moving social trends are being commercialised by national chains, creating easy PR hooks for brand partnerships, limited-time promotions and influencer-driven content tied to seasonal moments.
 
 Read here: https://lnkd.in/eMAkmBP4
-<<<
+
 
 **Image / visual note:** 
 N.
