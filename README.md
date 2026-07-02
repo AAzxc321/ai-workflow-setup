@@ -34,6 +34,9 @@ The research materials are organized as follows:
 - `research/sources.md` — master source list with all 10 experts, links, dates, source types, and brief annotations.
 - `research/linkedin-posts/` — manually collected LinkedIn posts organized by expert.
 - `research/youtube-transcripts/` — YouTube transcripts collected with a Python transcript workflow and organized by expert/video.
+- Source list: `videos.csv`
+- Fetch script: `fetch_youtube_transcripts.py`
+- Transcript structure: one expert folder per source/person, with Markdown transcript files inside.
 - `research/other/` — additional articles, case studies, podcast pages, frameworks, guides, and supporting materials organized by expert.
 
 ### Why These Experts Were Chosen
@@ -46,38 +49,6 @@ The selected experts cover different parts of AI-powered SEO content production:
 - Ryan Law was included for AI-assisted editorial workflows, content engineering, content quality, and practical content production systems.
 
 Together, the collected sources provide a research base for understanding how AI can support SEO content production while still requiring human strategy, editorial judgment, source verification, and quality control.
-
----
-
-## Repository Structure
-
-```text
-research/
-├── sources.md
-├── linkedin-posts/
-├── youtube-transcripts/
-└── other/
-```
-
-### `research/sources.md`
-
-Master list of all 10 experts, including links, dates, source types, and brief annotations.
-
-### `research/linkedin-posts/`
-
-Manually collected LinkedIn posts organized by expert.
-
-### `research/youtube-transcripts/`
-
-Raw YouTube transcript collection for AI-powered SEO content production research.
-
-- Source list: `videos.csv`
-- Fetch script: `fetch_youtube_transcripts.py`
-- Transcript structure: one expert folder per source/person, with Markdown transcript files inside.
-
-### `research/other/`
-
-Additional supporting materials organized by expert, including articles, case studies, podcast pages, frameworks, guides, and other relevant non-LinkedIn research sources.
 
 ---
 
