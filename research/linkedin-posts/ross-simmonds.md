@@ -6,29 +6,29 @@
 * **LinkedIn profile:** https://www.linkedin.com/in/rosssimmonds/
 * **Collection method:** Manually collected from LinkedIn activity feed.
 * **Date collected:** 2026-07-02
-* **Topic focus:** B2B SaaS content strategy, content distribution, AI-assisted repurposing, Distribution.ai, content marketing systems, social content, Reddit and community visibility, content amplification, brand visibility, off-site authority, and AI-supported content workflows.
+* **Topic focus:** B2B SaaS content strategy, AI visibility, YouTube optimization, Reddit visibility, buyer discovery journeys, off-site authority, content distribution, attribution challenges, Ahrefs MCP workflows, keyword research, competitor gap analysis, and AI-supported research workflows.
 
 ## Selection Criteria
 
-The posts below were selected because they show Ross Simmonds’ recent public thinking around content distribution, B2B SaaS growth, AI-assisted repurposing, and how brands can turn content into a broader visibility system.
+The posts below were selected because they show Ross Simmonds’ recent public thinking around how B2B buyers discover brands across search, AI tools, YouTube, Reddit, social platforms, and community discussions.
 
 Priority was given to posts that discuss:
 
-* Content distribution and amplification
-* AI-assisted content repurposing
-* B2B SaaS content strategy
-* Distribution.ai or AI-supported content workflows
-* Turning long-form content into social posts, newsletters, clips, threads, or other assets
-* Content systems that connect creation, repurposing, publishing, and promotion
-* Reddit, community platforms, and off-site visibility
-* Brand visibility beyond the company website
-* How content earns attention across multiple platforms
-* Content operations, workflow efficiency, and scalable publishing systems
-* The role of human judgment in AI-assisted content and distribution
+* YouTube as a search and AI visibility asset
+* Optimizing video content with stronger titles, thumbnails, descriptions, playlists, and ongoing production
+* Reddit threads as sources of buyer sentiment, objections, competitor mentions, Google visibility, and AI citations
+* B2B discovery journeys that happen across Reddit, Instagram, ChatGPT, Claude, Grok, YouTube, direct messages, and websites
+* The attribution problem created when buyers use many discovery sources before converting
+* AI visibility beyond the company website
+* Content distribution across platforms where buyers actually research
+* Off-site authority and community visibility as part of modern B2B content strategy
+* Ahrefs MCP and AI-assisted keyword research workflows
+* Pulling keyword data, traffic trends, competitor gaps, and top pages into faster research workflows
+* The continued need for human judgment when interpreting SEO and content data
 
-Some posts are directly related to AI-powered SEO content production, especially posts about AI-assisted repurposing, content workflows, and distribution systems.
+Some posts are directly related to AI-powered SEO content production, especially the posts about YouTube optimization, Reddit visibility, AI citations, Ahrefs MCP, and faster research workflows.
 
-Other posts provide supporting context around Ross Simmonds’ broader content marketing approach: creating once, distributing repeatedly, building visibility outside traditional search, and treating content distribution as a strategic growth function.
+Other posts provide supporting context around Ross Simmonds’ broader content strategy: treating distribution, platform visibility, buyer discovery, and attribution as part of the content system rather than as separate marketing activities.
 
 ---
 
