@@ -127,33 +127,89 @@ Contained no image.
 * **Source type:** LinkedIn post
 
 ## **Post 4 Extract:**
+if i was starting my FIRST DAY as a new Head of Content, here's what i would do:
+
+- build a new blog using a static site generator, host with GitHub, deploy with Netlify or Cloudflare Pages. for an existing blog like WordPress, set up an MCP connector. the goal is a fully AI-native blog, analysis, content creation, updating, all from the terminal, all in my control
+
+- get access to Gong/Intercom/Slack and extract common entities and n-grams. find the language customers and prospects really use, use this as seed keywords for topic research
+
+- build key "source of truth" files in markdown i can reference throughout my workflows: a master list of product features and use cases, canonical writing voice with specific reference articles, key strategic priorities to shape everything we do
+
+- crawl our sitemap and generate vector embeddings for every article. use this to analyse topical authority (and topic "drift") and automate internal linking
+
+- schedule a recurring, automated content audit: pull rankings and backlink data via the Ahrefs MCP, analyse AI search visibility with Brand Radar, flag technical issues with Site Audit, look for traffic decay via GSC and make a priority list of content updates
+
+- set up a daily cron job to refresh our highest priority articles: extract the article content, run through AI Content Helper to fill topic gaps, update old claims and statistics, save as a draft for my review
+
+- run a content gap analysis using the Ahrefs MCP to find key topics our competitors have covered that we haven't. use Firehose to get a daily update of new articles and industry news emailed to me
+
+- build my Content OS: a centralised dashboard that pulls all of these reports and workflows into one place. this is exactly what i've done at Ahrefs using Agent A
+
+- get fired for spending $80M in AI credits in my first day (maybe?)
+
+---
+i sound like an obnoxious AI hype bro, but all these workflows are things my team have actually built. many of them will become the norm sooner rather than later
+
+AI is truly putting the "manager" into "Content Marketing Manager". we now operate at a higher level of abstraction, building systems to support our work instead of doing everything ourselves
+
+we don't have to consign ourselves to Google Docs and rely on developers and designers: we can build AI-native blogs as malleable as plasticine and shape every facet of them to our exact specification. if you can imagine it, you can build it!
+
+and as crazy as this sounds, this isn't so much the "first 30-days" of content marketing as the first 30-MINUTES, because so much of this infrastructure can be built agentically. you just need to have the vision, know what to ask for, and use your taste and experience to nudge as these systems get built for you
+
+if you don't know where to start: pick one of these ideas, login to Claude Code or Codex or Agent A, paste the bullet and ask it to build it (and some of these are already available as free apps in Agent A!)
 
 **Image / visual note:**
-![Post 4](N)
+Contained no image.
 
 ---
 
 ## Post 5
 
-* **URL:** [Post 5](N)
-* **Date:**
+* **URL:** [Post 5](https://www.linkedin.com/posts/thinkingslow_content-marketing-is-going-through-the-biggest-activity-7466085949089742848-QyPM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+* **Date:**  Fri, 29 May 2026 11:20:03 GMT (UTC)
 * **Source type:** LinkedIn post
 
 ## **Post 5 Extract:**
+content marketing is going through the biggest step-change since Google appeared. one personal example:
+
+i have an old website i built a decade ago. the content was old, the design was old, i had no time to improve it. resigned to a slow death. c'est la vie.
+
+but now: i migrated the website from Squarespace to static HTML. i vibe-coded a brand new design with tons of custom widgets. i hooked it up to Codex and now, every day, Codex chooses one old article to improve, automatically.
+
+it pulls performance data from the Ahrefs MCP. it reviews top-ranking articles. it finds content gaps, adds new sections, generates new images, improves internal linking, and generates a preview for me to provide feedback on.
+
+it takes me about 10-minutes to review and finalise the article, and Codex saves my feedback to a memory file that it reviews the next time it goes to update an article. it is literally like having a team working for me, to my exact specification, reviving all of my old projects, and it costs me $20/m.
+
+and this is just a dumb hobby project: imagine what content marketing is about to look like at successful, tech-literate companies with big budgets and bigger revenue goals? imagine what a skilled team of marketers could achieve working in unison with a system like Agent A?
+
+of course, it's a classic monkey paw: the same technology that is automating high-quality content marketing is also nerfing the value companies can derive from it.
+
+but i think there will always be value (and reward) for extremely high-quality content, and strangely, i think AI is about to become essential for making competitive, high-quality content. how can "traditional" content marketing compete with automated content updating, with deeper research, with unique data visualisations and custom-coded page experiences?
+
+content marketing is absolutely crazy right now, and frankly i am having the best time
 
 **Image / visual note:**
-![Post 5](N)
+Contained no image.
 
 ---
 
 ## Post 6
 
-* **URL:** [Post 6](N)
-* **Date:**
+* **URL:** [Post 6](https://www.linkedin.com/posts/thinkingslow_heres-a-full-9-minute-walkthrough-of-my-activity-7464941601384128512-4-xC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+* **Date:**  Tue, 26 May 2026 07:32:49 GMT (UTC)
 * **Source type:** LinkedIn post
 
 ## **Post 6 Extract:**
+Here's a full 9-minute walkthrough of my AI content automation system, built using Agent A.
+
+This is a full content automation system that covers keyword research, competitor analysis, topic research, outlining, mentioning Ahrefs products and articles, drafting, internal linking, simple image generation, preview, editing, formatting for publication, and even updating content after it's published.
+
+The system is built with no code using full access to Ahrefs data, and includes dozens of customizable skill files based on my real editorial process. I've used this process to publish and update dozens of live articles on the Ahrefs blog.
+
+It's easy to make bad content with AI, but it's getting easier and easier to make great content too. Hope this is helpful!
+
+P.S. if you want me to add this to the application library in Agent A (so you can install it and use it yourself), let me know in a comment :)
 
 **Image / visual note:**
-![Post 6](N)
+Post contains video.
 
