@@ -6,29 +6,29 @@
 * **LinkedIn profile:** https://www.linkedin.com/in/michaelkingphilly/
 * **Collection method:** Manually collected from LinkedIn activity feed.
 * **Date collected:** 2026-07-02
-* **Topic focus:** AI search, GEO, Relevance Engineering, technical SEO, information retrieval, Google AI Mode, AI Overviews, query fan-out, passage retrieval, content structure, embeddings, citations, search patents, ranking systems, AI search measurement, and enterprise SEO strategy.
+* **Topic focus:** AI search, GEO, AI search measurement, query fan-out, citations, agentic RAG, content eligibility, AI crawlers, LLM access control, cloaking for LLMs, technical SEO, crawlability, proprietary content protection, and the changing value exchange between publishers and AI systems.
 
 ## Selection Criteria
 
-The posts below were selected because they show Michael King’s recent public thinking around AI search systems, technical SEO, Relevance Engineering, and how content is retrieved, interpreted, cited, and ranked in AI-driven search environments.
+The posts below were selected because they show Michael King’s recent public thinking around AI search systems, measurement, technical SEO, content accessibility, and how brands should adapt when AI systems retrieve, summarize, cite, or consume web content.
 
 Priority was given to posts that discuss:
 
-* AI search, GEO, AI Mode, AI Overviews, or conversational search
-* Relevance Engineering and the shift from keyword-focused SEO to system-level visibility
-* Information retrieval, embeddings, vector search, passages, and semantic relevance
-* Query fan-out, reasoning chains, and how AI systems expand or interpret user queries
-* Google patents, ranking systems, search architecture, or technical SEO research
-* Content structure, entity relationships, and machine-readable page design
-* How AI systems choose, cite, summarize, or ignore sources
-* Technical SEO foundations for AI search and retrieval
-* Measurement frameworks for AI search visibility, citations, mentions, and performance
-* The role of content strategy, digital PR, UX, and technical SEO in AI search
-* Enterprise SEO implications, strategic risk, and how brands should adapt to probabilistic search results
+* AI search measurement and the limits of traditional rankings and traffic metrics
+* Query fan-out, answer synthesis, citations, and trusted-source selection
+* The shift from classic SEO performance metrics to AI-era visibility and brand influence
+* Agentic RAG pipelines and how content may fall out of eligibility before being cited or used
+* Technical SEO implications of AI crawlers, LLMs, and answer engines
+* Crawlability, rendering, user agents, markdown, and what AI systems can or cannot access
+* Whether all AI crawlers should receive the same access as Googlebot
+* Protecting proprietary research, original frameworks, benchmarks, and internal datasets
+* The broken traffic-for-crawling value exchange between publishers and AI systems
+* Strategic visibility decisions around making the right content accessible to the right systems
+* Michael King’s broader influence in SEO, AI search, and technical search strategy
 
-Some posts are directly related to AI-powered SEO content production, especially posts about content structure, retrieval, citations, query fan-out, and AI search visibility.
+Some posts are directly related to AI-powered SEO content production, especially the posts about AI search measurement, agentic RAG eligibility, AI citations, and technical accessibility for AI systems.
 
-Other posts provide supporting context around Michael King’s broader technical framework: Relevance Engineering, search patents, information retrieval, AI search measurement, and the systems that determine whether content is discovered, understood, cited, or recommended.
+Other posts provide supporting context around Michael King’s industry influence and his broader technical framework for how content should be discovered, protected, retrieved, cited, or withheld in AI-driven search environments.
 
 ---
 
