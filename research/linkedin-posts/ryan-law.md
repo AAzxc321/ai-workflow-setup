@@ -6,29 +6,29 @@
 * **LinkedIn profile:** https://www.linkedin.com/in/thinkingslow/
 * **Collection method:** Manually collected from LinkedIn activity feed.
 * **Date collected:** 2026-07-02
-* **Topic focus:** AI-assisted content production, AI content workflows, content automation, editorial quality, information gain, Ahrefs content strategy, AI search visibility, GEO, AI Overviews, query fan-out, internal linking, content updates, and B2B content marketing strategy.
+* **Topic focus:** AI-assisted content production, shared AI workspaces, vibe-writing, AI-native blogs, Agent A, Ahrefs MCP, Codex workflows, content automation, editorial quality, content freshness, internal linking, competitor research, content updates, and human-in-the-loop publishing systems.
 
 ## Selection Criteria
 
-The posts below were selected because they show Ryan Law’s recent public thinking around AI-assisted content production, content marketing strategy, editorial workflows, and how content teams can use AI without reducing quality or usefulness.
+The posts below were selected because they show Ryan Law’s recent public thinking around how AI can transform content marketing workflows without removing editorial judgment, human creativity, or quality standards.
 
 Priority was given to posts that discuss:
 
-* AI-assisted content workflows
-* Automated or semi-automated content production systems
-* Keyword research, competitor analysis, topic research, outlining, drafting, editing, formatting, and publishing workflows
-* Internal linking and content update processes
-* Ahrefs product or data integration inside content workflows
-* AI search visibility, GEO, AI Overviews, and query fan-out
-* Content quality, information gain, and usefulness to readers
-* The role of editors and content strategists in directing AI-generated or AI-assisted content
-* How B2B SaaS content teams should adapt when information becomes cheaper and easier to produce
-* Strategic content marketing decisions in an AI-driven search environment
-* The difference between producing more content and producing content that is actually valuable, citeable, or useful
+* Shared AI workspaces for content teams
+* AI-assisted writing, vibe-writing, dictation, and human-led drafting
+* AI content automation systems built around real editorial processes
+* Keyword research, competitor analysis, topic research, outlining, drafting, internal linking, image generation, editing, formatting, publishing, and updating
+* Ahrefs MCP, Agent A, Codex, Claude Code, and other AI-supported content workflow tools
+* AI-native blogs, static-site workflows, GitHub/Netlify/Cloudflare publishing, and MCP-connected WordPress workflows
+* Content freshness dashboards, recurring audits, automated updates, and performance reporting
+* Using customer language, product documentation, brand voice files, and strategic source-of-truth documents inside AI workflows
+* The difference between using AI to create better content and using AI to scale worse or obviously AI-generated content
+* Editorial standards, human review, risk tolerance, and quality control in AI-assisted content production
+* How AI changes the role of content marketers from manual production to system design and workflow management
 
-Some posts are directly related to AI-powered SEO content production, especially posts about AI content automation, editorial workflows, internal linking, content updates, AI search visibility, and Ahrefs-style content systems.
+The selected posts are directly relevant to AI-powered SEO content production because they describe concrete AI-supported systems for researching, writing, updating, optimizing, and publishing content.
 
-Other posts provide supporting context around Ryan Law’s broader content marketing approach: using AI to speed up production while preserving strategy, judgment, quality control, and reader value.
+They also show Ryan Law’s main argument: AI should not simply produce more generic content. It should help content teams create better, fresher, more data-informed, more useful content while preserving human judgment, taste, and editorial standards.
 
 ---
 
