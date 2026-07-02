@@ -4,6 +4,18 @@
 
 Aleyda Solís was selected because she is an active international SEO and AI Search Optimization practitioner. Her work is relevant to AI-powered SEO content production because she focuses on practical AI search optimization workflows: crawlability, indexability, content extractability, brand authority, citations, prompt libraries, and AI visibility measurement.
 
+## Research angle
+
+Use Aleyda Solís as a source for:
+
+- AI Search Optimization / GEO / AEO / LLMO frameworks.
+- Content optimization for AI answers and citations.
+- Prompt libraries and AI visibility measurement.
+- AI search KPIs beyond clicks and rankings.
+- Brand readiness for AI search.
+- International and ecommerce implications of AI search.
+- Turning AI search changes into repeatable SEO workflows.
+
 ## Additional materials
 
 ### 1. Learn AI Search: The Free AI Search Optimization Roadmap
