@@ -3,7 +3,7 @@
 ## Collection Notes
 
 * **Expert:** Matt Diggity
-* **LinkedIn profile:** https://www.linkedin.com/in/mattdiggity/
+* **LinkedIn profile:** https://www.linkedin.com/in/mattdiggityseo/
 * **Collection method:** Manually collected from LinkedIn activity feed.
 * **Date collected:** 2026-07-02
 * **Topic focus:** AI SEO, AI Overviews, SEO case studies, traffic recovery, algorithm updates, trust-sensitive eCommerce SEO, E-E-A-T, Digital PR, Reddit visibility, topical clusters, link building, white-label SEO offers, AI visibility, and performance-driven SEO strategy.
