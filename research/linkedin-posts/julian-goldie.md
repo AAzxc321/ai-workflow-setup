@@ -90,7 +90,7 @@ Post has an attached .gif file of a child cheering.
 * **Date:** Thu, 02 Jul 2026 14:50:07 GMT (UTC)
 * **Source type:** LinkedIn post
 
-## **Post N Extract:**
+## **Post 3 Extract:**
 I gave one FREE AI agent 5 full-time jobs…
 
 Here’s how👇
@@ -164,42 +164,127 @@ Comment YES and I’ll send the full tutorial.
 
 ---
 
-## Post N
+## Post 4
 
-* **URL:** [Post N](N)
-* **Date:**
+* **URL:** [Post 4](https://www.linkedin.com/posts/juliangoldieseo_want-a-better-backlinks-supporting-their-activity-7478444698114646017-CxrZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+* **Date:**  Thu, 02 Jul 2026 13:49:18 GMT (UTC)
 * **Source type:** LinkedIn post
 
-## **Post N Extract:**
+## **Post 4 Extract:**
+Want a Better Backlinks Supporting Their Best Pages?
+
+This guide helps you understand which links matter.
+
+Get YOUR FREE SEO Link Building Book Guide 👇
+
+Like + comment “Yes” to claim yours! 💪
 
 **Image / visual note:**
-![Post N](N)
+![Post 4](https://media.licdn.com/dms/image/v2/D5622AQGdQ9BuqomgRg/feedshare-image-high-res/B56Z8jF0yjG8AU-/0/1783000157594?e=1784764800&v=beta&t=_e-a0jmpWKhidl1hgn1k4IxBNZsJYCtAhSAYiJ25J0Y)
 
 ---
 
-## Post N
+## Post 5
 
-* **URL:** [Post N](N)
-* **Date:**
+* **URL:** [Post 5](https://www.linkedin.com/posts/juliangoldieseo_want-to-know-how-to-use-ai-prompts-to-find-activity-7478317836701048832-fOgC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+* **Date:** Thu, 02 Jul 2026 05:25:12 GMT (UTC)
 * **Source type:** LinkedIn post
 
-## **Post N Extract:**
+## **Post 5 Extract:**
+Want to Know How To Use AI Prompts To Find Hidden SEO Opportunities?
+
+(And Turn Them Into Content, Rankings, And Leads...)
+
+FREE 200+ AI Prompts And Guide Reveals:
+
+✅ Low-competition keyword prompts
+
+✅ Competitor weakness prompts
+
+✅ Content refresh prompts
+
+✅ Internal linking prompts
+
+✅ Backlink prospecting prompts
+
+✅ Lead-focused content prompts
+
+Like + comment “Yes” to claim yours! 💪
 
 **Image / visual note:**
-![Post N](N)
+![Post 5](https://media.licdn.com/dms/image/v2/D5622AQE2Ka5KnmQXxQ/feedshare-shrink_1280/B56Z8hScpKLAAM-/0/1782969912138?e=1784764800&v=beta&t=3Bl2iKRG57CIqfA2g4bkmwTo9SGcgqN2Ke2Hc9auqLU)
 
 ---
 
-## Post N
+## Post 6
 
-* **URL:** [Post N](N)
-* **Date:**
+* **URL:** [Post 6](https://www.linkedin.com/posts/juliangoldieseo_i-built-my-own-ai-seo-tool-for-almost-free-activity-7478265064072896514-h-zD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
+* **Date:** Thu, 02 Jul 2026 01:55:30 GMT (UTC)
 * **Source type:** LinkedIn post
 
-## **Post N Extract:**
+## **Post 6 Extract:**
+I built my own AI SEO tool for almost free…
+
+Here’s how👇
+
+Most SEO workflows look like this:
+
+Open Ahrefs.
+
+Open Google.
+
+Open Search Console.
+
+Open WordPress.
+
+Forget why you opened Google.
+
+My setup puts everything inside one AI system.
+
+Here’s the simple process:
+
+1️⃣ Install OpenSEO from GitHub.
+
+It is free, open source, and self-hosted.
+
+2️⃣ Connect a data API.
+
+Now you can see keyword volume, difficulty, search intent, competitors, and SERP results.
+
+3️⃣ Add your website.
+
+Track rankings on desktop or mobile without paying for another monthly tool.
+
+4️⃣ Study your competitors.
+
+Drop in their domain and find the keywords bringing them traffic.
+
+Then steal the strategy.
+
+Legally, of course.
+
+5️⃣ Connect OpenSEO to Claude, Hermes, Codex, or another AI agent using MCP.
+
+Your agents can now pull real SEO data instead of guessing.
+
+6️⃣ Send the best keywords into your content pipeline.
+
+My system can create five articles, check their quality, and publish them without opening WordPress.
+
+Keyword research → content → publishing → rank tracking.
+
+All inside one place.
+
+The tool is useful.
+
+But the real win is removing the boring clicks between each step.
+
+Get a FREE SEO Strategy Session here:
+https://lnkd.in/eXz3JZ5Q
+
+P.S. Which SEO task wastes the most time for you: finding keywords, writing content, publishing, or tracking rankings?
 
 **Image / visual note:**
-![Post N](N)
+![Post 6](https://media.licdn.com/dms/image/v2/D5622AQGNwfboZHNXPA/feedshare-image-high-res/B56Z8gicuzKEAU-/0/1782957329574?e=1784764800&v=beta&t=VSFwQU7Somp-F8MyIpqg417pvMo4vjFS1DygonDcifs)
 
----
 
