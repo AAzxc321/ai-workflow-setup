@@ -75,3 +75,11 @@ Use Gael Breton as a source for:
 - **Source type:** Podcast episode
 - **Annotation:** Authority Hacker episode where Gael Breton and Mark Webster describe practical business automations such as support bots, churn-risk databases, and onboarding systems.
 - **Relevance:** Useful for understanding Gael’s AI philosophy: the valuable automations are often operational and “boring,” not flashy prompt tricks.
+
+---
+
+## How these sources support the research
+
+These sources show Gael Breton’s approach to AI as a workflow and operations layer for SEO, content, and marketing. The materials are useful for understanding how AI can support topical mapping, content production, content repurposing, ad creation, and repeatable marketing systems.
+
+The strongest pattern across these sources is that AI is treated less as a writing shortcut and more as an execution system. Instead of using AI only to generate text, the workflows show AI helping with research, structure, planning, transformation, and production across multiple marketing tasks.
