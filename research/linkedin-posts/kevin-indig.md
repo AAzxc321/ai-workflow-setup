@@ -6,29 +6,28 @@
 * **LinkedIn profile:** https://www.linkedin.com/in/kevinindig/
 * **Collection method:** Manually collected from LinkedIn activity feed.
 * **Date collected:** 2026-07-01
-* **Topic focus:** Organic growth, AI search optimization, AI visibility, SEO strategy, content economics, topical authority, user behavior, zero-click search, AI Overviews, brand visibility, attribution, and research-backed growth strategy.
+* **Topic focus:** AI search optimization, AI visibility, prompt tracking, AI citation strategy, topic-specific authority, original data, B2B SaaS discoverability, brand mentions, attribution, and research-backed organic growth strategy.
 
 ## Selection Criteria
 
-The posts below were selected because they show Kevin Indig’s recent public thinking around AI search, organic growth, SEO strategy, content economics, and how companies should adapt to search behavior changing under AI.
+The posts below were selected because they show Kevin Indig’s recent public thinking around AI search visibility, citation strategy, prompt tracking, and how companies can earn visibility in AI-generated answers.
 
 Priority was given to posts that discuss:
 
-* AI search optimization
-* AI visibility and brand mentions in AI answers
-* SEO strategy in AI-driven search environments
-* Organic growth strategy beyond traditional rankings
-* Content economics and the changing value of evergreen content
-* Topical authority and topic-first SEO
-* AI Overviews, zero-click search, and traffic changes
-* User behavior in AI-assisted search journeys
-* Attribution, measurement, and the limits of traditional SEO metrics
-* Strategic decisions for marketing leaders, founders, and growth teams
-* Research-backed frameworks, studies, predictions, or market analysis
+* AI search optimization and answer-engine visibility
+* How companies can get recommended or cited by ChatGPT, Perplexity, Gemini, Google AI Overviews, and similar systems
+* Original data as a defensible AI citation asset
+* Structuring proprietary data so AI systems can understand and cite it
+* Topic-specific authority and the role of off-property mentions
+* Mapping the publications, experts, competitors, and domains AI systems already cite for a given topic
+* Prompt tracking methodology, sample design, personas, repeated runs, and platform-level measurement
+* Metrics such as mention rate, citation rate, average position, sentiment, attributes, and confidence intervals
+* B2B SaaS discoverability in AI-driven search environments
+* Research-backed frameworks for adapting SEO and organic growth strategy to AI search
 
-Some posts are directly related to AI-powered SEO content production, especially posts about content economics, topical authority, AI visibility, and AI search optimization.
+The selected posts are directly relevant to AI-powered SEO content production because they focus on what content needs to become citeable, trusted, measurable, and discoverable in AI search systems.
 
-Other posts provide supporting context around organic growth strategy, executive-level SEO decisions, user behavior, and how companies should adapt content and visibility strategies as search becomes more AI-driven.
+Rather than focusing on content volume or automation, these posts emphasize authority, original data, prompt research, topic-specific visibility, and measurement quality.
 
 ---
 
