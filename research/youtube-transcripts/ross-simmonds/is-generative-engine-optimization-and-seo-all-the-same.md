@@ -4,7 +4,7 @@
 
 * **Expert:** ross-simmonds
 * **URL:** https://www.youtube.com/watch?v=jFIfnc8tcSw
-* **Date:** 2026
+* **Date:** 2025-10-28
 * **Source type:** YouTube Short
 * **Transcript method:** YouTube transcript API
 * **Transcript language:** English
