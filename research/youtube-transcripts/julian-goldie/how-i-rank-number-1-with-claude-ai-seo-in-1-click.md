@@ -4,7 +4,7 @@
 
 * **Expert:** julian-goldie
 * **URL:** https://www.youtube.com/watch?v=EkRiu2GrEPg
-* **Date:** 2026
+* **Date:** 2026-06-26
 * **Source type:** YouTube video
 * **Transcript method:** YouTube transcript API
 * **Transcript language:** English
