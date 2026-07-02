@@ -2,7 +2,7 @@
 
 ## Why this expert was selected
 
-Matt Diggity was selected because his work is focused on SEO testing, case studies, and performance-driven optimization. For this research, the useful angle is how AI search changes measurable SEO outcomes: AI referral traffic, AI Overview visibility, third-party authority signals, content repurposing, structured data, and technical optimization.
+Matt Diggity was selected because his work is focused on SEO testing, case studies, and performance-driven optimization. For this research, the useful angle is how AI search changes measurable SEO outcomes: AI referral traffic, AI Overview visibility, third-party authority signals, content repurposing, structured data, technical accessibility, and content systems.
 
 ## Research angle
 
@@ -14,6 +14,8 @@ Use Matt Diggity as a source for:
 - Digital PR and earned media as inputs for AI visibility.
 - Structured data, log-file analysis, and multimodal content for AI SEO.
 - Repurposing existing content across AI, search, and social discovery surfaces.
+- AI-assisted content systems, metadata generation, and automation.
+- Programmatic SEO and scalable content architecture.
 - Performance-oriented SEO testing rather than purely theoretical AI search commentary.
 
 ---
@@ -25,7 +27,7 @@ Use Matt Diggity as a source for:
 - **URL:** https://diggitymarketing.com/reddit-engagement-case-study/
 - **Date:** 2026-04-20
 - **Source type:** Case study
-- **Annotation:** Matt Diggity explains how a technology company used Reddit engagement to increase referral traffic and strengthen authority signals. The case study frames Reddit as a credibility engine that influences both human discovery and AI search discovery.
+- **Annotation:** Case study showing how a technology company used Reddit engagement to increase referral traffic and strengthen authority signals. The case study frames Reddit as a credibility engine that influences both human discovery and AI search discovery.
 - **Relevance:** Strong source for understanding how AI search visibility can depend on third-party communities, not only owned website content. It is especially useful for studying off-site trust signals and community-driven authority.
 
 ### 2. How Search-Focused Digital PR Drove a 750% Revenue Increase and 300+ Press Placements
@@ -44,7 +46,15 @@ Use Matt Diggity as a source for:
 - **Annotation:** Advanced AI SEO case study covering log-file analysis, structured data, AI crawler behavior, and multimodal content optimization. The case study reports growth in monthly AI referral traffic and AI Overview visibility.
 - **Relevance:** Strong technical source for AI-powered SEO content production because it connects content visibility to crawl behavior, schema, page structure, and multimodal support.
 
-### 4. How We Increased Referral Search Traffic By 148% By Repurposing Old Content
+### 4. +3.7x Monthly AI Traffic: AI SEO Case Study
+
+- **URL:** https://diggitymarketing.com/ai-seo-traffic-case-study/
+- **Date:** 2025-09-29
+- **Source type:** Case study
+- **Annotation:** Case study focused on increasing AI referral traffic and AI Overview visibility for competitive keywords. It frames AI Overviews as important search real estate that pulls from multiple sources and reshapes customer discovery.
+- **Relevance:** Useful because it gives another applied example of AI Overview optimization and shows how AI search strategy can be measured through keyword visibility and AI referral traffic.
+
+### 5. How We Increased Referral Search Traffic By 148% By Repurposing Old Content
 
 - **URL:** https://diggitymarketing.com/repurpose-case-study/
 - **Date:** 2026-03-02
@@ -52,8 +62,64 @@ Use Matt Diggity as a source for:
 - **Annotation:** Case study about repurposing existing content across platforms where users now search and compare options, including ChatGPT, Perplexity, YouTube, TikTok, LinkedIn, and niche communities.
 - **Relevance:** Useful for the distribution layer of AI-powered SEO content production. It shows how existing content can be transformed and redistributed to increase visibility across modern discovery surfaces instead of relying only on Google organic traffic.
 
+### 6. $491k Revenue/Month by Building an AI SEO Genius
+
+- **URL:** https://diggitymarketing.com/ai-seo-genius-case-study/
+- **Date:** 2025-11-03
+- **Source type:** Case study / AI content automation
+- **Annotation:** Case study showing how The Search Initiative used AI and automation to support SEO content production, metadata generation, and link building. It includes workflows using Google Sheets, ChatGPT, and Make.com.
+- **Relevance:** Directly relevant to AI-powered SEO content production because it shows AI being used as part of a repeatable content and metadata system rather than only as a writing assistant.
+
+### 7. Beating Google Updates Using Custom GPTs: 5X Traffic in 12 Months
+
+- **URL:** https://diggitymarketing.com/prompt-engineering/
+- **Date:** 2025-08-06
+- **Source type:** Case study / custom GPT workflow
+- **Annotation:** Case study about using custom GPTs and advanced content solutions to recover or improve search visibility after major Google updates.
+- **Relevance:** Useful because it connects AI-assisted workflows to quality control, helpful content, and resilience after algorithm updates.
+
+### 8. Case Study: The Programmatic SEO Approach that Got Attention from Oracle and Google
+
+- **URL:** https://diggitymarketing.com/case-study-programmatic-seo/
+- **Date:** 2025-08-06
+- **Source type:** Case study / programmatic SEO
+- **Annotation:** Case study about using programmatic SEO to create hundreds of high-quality pages from a structured template instead of writing every page manually.
+- **Relevance:** Useful for the scalable content-production side of the research. It shows how structured templates, data, and repeatable page architecture can support SEO growth when quality and usefulness are preserved.
+
+### 9. Ultimate Guide to Surfer Onsite Optimization in 2026
+
+- **URL:** https://diggitymarketing.com/surfer-seo-guide/
+- **Date:** 2025-08-06
+- **Source type:** Guide / onsite SEO optimization
+- **Annotation:** Guide to using Surfer SEO for onsite optimization, competitor comparison, content structure, and page-level SEO improvement.
+- **Relevance:** Useful because AI-powered content still needs on-page optimization, search intent alignment, structure, and quality controls. It adds the optimization layer after AI-assisted production.
+
+### 10. Diggity Marketing News Roundup—January 2026
+
+- **URL:** https://diggitymarketing.com/news-roundup-jan-2026/
+- **Date:** 2026-01-26
+- **Source type:** SEO news roundup / AI search curation
+- **Annotation:** Roundup covering AI search visibility, why prompt tracking can fail, Google cutting news traffic, Rand Fishkin’s view of the new search reality, and third-party content dominating AI search for commercial queries.
+- **Relevance:** Useful because it connects AI search visibility to prompt tracking, third-party authority, zero-click behavior, and the need to build visibility outside owned websites.
+
+### 11. Diggity Marketing News Roundup—October 2025
+
+- **URL:** https://diggitymarketing.com/news-roundup-oct-2025/
+- **Date:** 2025-10-27
+- **Source type:** SEO news roundup / AI search curation
+- **Annotation:** Roundup covering AI search topics such as YouTube’s role in AI search, how AI weighs links, consumer discovery shifts, and Google tool changes.
+- **Relevance:** Useful because it supports the idea that AI-powered SEO content production has to consider video, links, platform authority, and discovery behavior beyond standard blog content.
+
+### 12. Diggity Marketing News Roundup—June 2026
+
+- **URL:** https://diggitymarketing.com/news-roundup-june-2026/
+- **Date:** 2026-06-29
+- **Source type:** SEO news roundup / AI search curation
+- **Annotation:** Roundup focused on recent AI search, LLM, video marketing, and Google AI changes, including Google’s declaration of a new era of AI search, ChatGPT ad plans, YouTube AI updates, and Google Ads AI integrations.
+- **Relevance:** Useful for tracking the broader environment around AI SEO and content discovery. It helps contextualize why AI search, video, ads, and LLM visibility are becoming connected parts of the same content ecosystem.
+
 ## How these sources support the research
 
-These sources show Matt Diggity’s approach to AI SEO through measurable experiments and case studies. The materials are useful for understanding how AI search visibility can be influenced by owned content, structured data, off-site authority, digital PR, Reddit/community presence, and content repurposing.
+These sources show Matt Diggity’s approach to AI SEO through measurable experiments, case studies, and performance-focused analysis. The materials are useful for understanding how AI search visibility can be influenced by owned content, structured data, off-site authority, digital PR, Reddit/community presence, content repurposing, programmatic SEO, and AI-assisted content systems.
 
-The strongest pattern across these sources is that AI-powered SEO content production is not just about publishing AI-written articles. It also requires technical accessibility, trusted external mentions, platform-specific distribution, and measurable visibility across AI search systems and traditional search results.
+The strongest pattern across these sources is that AI-powered SEO content production is not just about publishing AI-written articles. It also requires technical accessibility, trusted external mentions, platform-specific distribution, structured optimization, and measurable visibility across AI search systems and traditional search results.
