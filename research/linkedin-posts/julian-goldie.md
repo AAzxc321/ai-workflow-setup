@@ -6,27 +6,28 @@
 * **LinkedIn profile:** https://www.linkedin.com/in/juliangoldieseo/
 * **Collection method:** Manually collected from LinkedIn activity feed.
 * **Date collected:** 2026-07-01
-* **Topic focus:** AI SEO, SEO automation, AI agents, AI-generated SEO articles, AI-built websites, YouTube SEO, AI video workflows, backlinks, traffic growth, ranking experiments, and tactical AI-powered content systems.
+* **Topic focus:** AI SEO, Claude-based SEO workflows, AI agents, SEO automation, content pipelines, keyword research, AI-generated articles, publishing workflows, rank tracking, backlinks, link-building offers, SEO lead magnets, and traffic-growth claims.
 
 ## Selection Criteria
 
-The posts below were selected because they are relevant to the research topic: **AI-powered SEO content production**.
+The posts below were selected because they show Julian Goldie’s recent public positioning around AI SEO, SEO automation, lead generation, link building, and high-output content systems.
 
 Priority was given to posts that discuss:
 
-* AI SEO workflows
-* AI agents for SEO or content production
-* SEO article generation with AI tools
-* AI-built websites, landing pages, or microsites
-* YouTube SEO and video-driven search visibility
-* AI-assisted backlink or ranking workflows
-* Programmatic or high-volume content systems
-* Ranking experiments and traffic growth case studies
-* AI search visibility across platforms such as Google, Perplexity, Claude, ChatGPT, or AI Overviews
-* Automation workflows that connect content creation, publishing, internal linking, and distribution
-* Practical examples of scaling SEO output with AI
+* Claude or AI-assisted SEO workflows
+* AI agents used for SEO, content, outreach, video, or quality control
+* AI systems that connect keyword research, content creation, publishing, and rank tracking
+* AI prompts for finding SEO opportunities, content gaps, competitor weaknesses, internal linking opportunities, and backlink prospects
+* SEO automation tools such as OpenSEO, MCP-connected workflows, Claude, Hermes, Codex, or similar agents
+* AI-generated articles and content pipelines
+* Ranking and traffic-growth claims from AI SEO experiments
+* Backlink strategy, link-building offers, and SEO service positioning
+* Lead magnets used to collect demand for SEO services
+* Promotional funnels connected to AI SEO or link-building services
 
-Some posts are directly related to AI-powered SEO content production, while others provide supporting context around Julian Goldie’s broader AI SEO, video automation, ranking, and traffic-generation experiments.
+Some posts are directly related to AI-powered SEO content production, especially the posts about AI agents, OpenSEO, keyword research, publishing workflows, and content pipelines.
+
+Other posts are more promotional, but they were still collected because they show how Julian Goldie packages, sells, and distributes AI SEO and link-building services through LinkedIn.
 
 ---
 
@@ -167,7 +168,7 @@ Comment YES and I’ll send the full tutorial.
 ## Post 4
 
 * **URL:** [Post 4](https://www.linkedin.com/posts/juliangoldieseo_want-a-better-backlinks-supporting-their-activity-7478444698114646017-CxrZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
-* **Date:**  Thu, 02 Jul 2026 13:49:18 GMT (UTC)
+* **Date:** Thu, 02 Jul 2026 13:49:18 GMT (UTC)
 * **Source type:** LinkedIn post
 
 ## **Post 4 Extract:**
