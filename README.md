@@ -40,6 +40,16 @@ Before moving on to each step, I manually checked the information to ensure ever
 
 ---
 
+### YouTube Transcripts
+
+- Location: `research/youtube-transcripts/`
+- Purpose: raw YouTube transcript collection for AI-powered SEO content production research.
+- Source list: `videos.csv`
+- Fetch script: `fetch_youtube_transcripts.py`
+- Transcript structure: one expert folder per source/person, with Markdown transcript files inside.
+
+---
+
 ### Issues Encountered
 
 Cursor initially opened in the **Cursor Agents** view instead of the standard editor. Because of this, the **Extensions** menu mentioned in the instructions was not visible.
