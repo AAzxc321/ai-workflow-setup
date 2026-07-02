@@ -62,6 +62,8 @@ Aleyda Solís was selected because she is an active international SEO and AI Sea
 - **Annotation:** Explores the difference between AI-driven traffic and AI citations, which matters because AI visibility does not always behave like traditional organic traffic.
 - **Relevance:** Useful for separating “being cited or used by AI systems” from “getting clicks,” which helps define better KPIs for AI SEO content.
 
-## Notes
+## How these sources support the research
 
-These sources were prioritized because they are directly connected to AI search optimization, content optimization, prompt-based visibility, citations, and measurement. Social profiles, Reddit mentions, Facebook, Instagram, Spotify, and general profile pages were excluded because they are weaker as research sources for this project.
+These sources show Aleyda Solís’s approach to AI search as a structured SEO discipline. The materials are useful for understanding how content teams can move from traditional rankings and clicks toward AI visibility, citations, prompt-based measurement, brand readiness, and international or ecommerce-specific AI search behavior.
+
+The strongest pattern across these sources is that AI search optimization still depends on solid SEO foundations, but the measurement layer changes. Content needs to be findable, extractable, useful, corroborated, and measurable across AI-assisted journeys, not only optimized for a single keyword or search results page.
