@@ -89,9 +89,9 @@ Use Bernard Huang as a source for:
 
 ---
 
-## Notes
+## How these sources support the research
 
-This file intentionally excludes LinkedIn sources and sources already listed in `research/sources.md`, including Bernard Huang’s personal website, Clearscope company website, LinkedIn profile, main AEO/GEO webinar, older SEO trends webinar, AI-driven SEO podcast interview, and generative AI SEO webinar.
+These sources show Bernard Huang’s approach to AI search through AEO, GEO, query fan-out, prompt tracking, topical authority, and AI citation measurement. The materials are useful for understanding how content teams can plan content around the searches and prompts that feed AI-generated answers.
 
-The sources kept here add extra material on AI SEO, AEO, GEO, prompt tracking, query fan-out, AI citations, topical SEO, and content workflow materials.
+The strongest pattern across these sources is that AI SEO is not just about producing more content with AI. It is about understanding how answer engines discover, interpret, cite, and recommend brands, then building content and authority signals that make the brand easier to surface in those systems.
 Lower-priority sources were excluded from this file, including Instagram clips, Facebook reposts, Reddit mentions, generic social profiles, and broad product reviews. Those sources may show distribution or community discussion, but they are weaker than the articles, webinars, interviews, and framework pieces listed above.
