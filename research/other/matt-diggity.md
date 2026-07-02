@@ -94,29 +94,6 @@ Use Matt Diggity as a source for:
 - **Annotation:** Guide to using Surfer SEO for onsite optimization, competitor comparison, content structure, and page-level SEO improvement.
 - **Relevance:** Useful because AI-powered content still needs on-page optimization, search intent alignment, structure, and quality controls. It adds the optimization layer after AI-assisted production.
 
-### 10. Diggity Marketing News Roundup—January 2026
-
-- **URL:** https://diggitymarketing.com/news-roundup-jan-2026/
-- **Date:** 2026-01-26
-- **Source type:** SEO news roundup / AI search curation
-- **Annotation:** Roundup covering AI search visibility, why prompt tracking can fail, Google cutting news traffic, Rand Fishkin’s view of the new search reality, and third-party content dominating AI search for commercial queries.
-- **Relevance:** Useful because it connects AI search visibility to prompt tracking, third-party authority, zero-click behavior, and the need to build visibility outside owned websites.
-
-### 11. Diggity Marketing News Roundup—October 2025
-
-- **URL:** https://diggitymarketing.com/news-roundup-oct-2025/
-- **Date:** 2025-10-27
-- **Source type:** SEO news roundup / AI search curation
-- **Annotation:** Roundup covering AI search topics such as YouTube’s role in AI search, how AI weighs links, consumer discovery shifts, and Google tool changes.
-- **Relevance:** Useful because it supports the idea that AI-powered SEO content production has to consider video, links, platform authority, and discovery behavior beyond standard blog content.
-
-### 12. Diggity Marketing News Roundup—June 2026
-
-- **URL:** https://diggitymarketing.com/news-roundup-june-2026/
-- **Date:** 2026-06-29
-- **Source type:** SEO news roundup / AI search curation
-- **Annotation:** Roundup focused on recent AI search, LLM, video marketing, and Google AI changes, including Google’s declaration of a new era of AI search, ChatGPT ad plans, YouTube AI updates, and Google Ads AI integrations.
-- **Relevance:** Useful for tracking the broader environment around AI SEO and content discovery. It helps contextualize why AI search, video, ads, and LLM visibility are becoming connected parts of the same content ecosystem.
 
 ## How these sources support the research
 
