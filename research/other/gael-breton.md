@@ -68,18 +68,10 @@ Use Gael Breton as a source for:
 - **Annotation:** Workflow for generating carousel content from blog posts, transcripts, or research documents, including slide structure, visuals, and calls to action.
 - **Relevance:** Useful for showing how AI can extend SEO/content work into social distribution assets without starting from scratch.
 
-### 7. Automate $10K/Month in Tasks with AI
+### 7. 5 Boring AI Automations Making Us 7 Figures
 
-- **URL:** https://www.youtube.com/watch?v=blG6gss-mUY
-- **Date:** Accessed 2026-07-02
-- **Source type:** External video interview / workflow walkthrough
-- **Annotation:** External video featuring Gael Breton discussing real AI workflows for replacing repetitive marketing tasks, producing content, and shipping more work without losing quality.
-- **Relevance:** Useful external source because it shows Gael explaining AI workflows outside his own website ecosystem.
-
----
-
-## Notes
-
-This file intentionally excludes sources already listed in `research/sources.md`, including Gael Breton’s main Authority Hacker profile, Authority Hacker homepage, LinkedIn profile, Authority Hacker podcast archive, YouTube channel, the “Think OpenAI is the king for automation?” LinkedIn post, and the “Stop Chatting With AI. Start Delegating To It.” article.
-
-The sources kept here are focused on practical AI workflow examples that add new information beyond the main source list.
+- **URL:** https://podcasts.apple.com/au/podcast/5-boring-ai-automations-making-us-7-figures/id1073349789?i=1000772027261
+- **Date:** 2026-06-10
+- **Source type:** Podcast episode
+- **Annotation:** Authority Hacker episode where Gael Breton and Mark Webster describe practical business automations such as support bots, churn-risk databases, and onboarding systems.
+- **Relevance:** Useful for understanding Gael’s AI philosophy: the valuable automations are often operational and “boring,” not flashy prompt tricks.
