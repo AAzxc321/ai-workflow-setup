@@ -14,13 +14,13 @@ Aleyda Solís was selected because she is an active international SEO and AI Sea
 - **Annotation:** Aleyda Solís’s dedicated AI search learning hub. It organizes AI Search Optimization topics into a structured roadmap covering technical optimization, content optimization, brand authority, citations, measurement, and tools.
 - **Relevance:** Best overall source for understanding her AI-search framework and how she structures the field.
 
-### 2. The AI Search Optimization Checklist - With Worksheet
+### 2. The 10 Key Characteristics of AI Search Winning Brands
 
-- **URL:** https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/
-- **Date:** 2026-05-27
-- **Source type:** Article / checklist / worksheet
-- **Annotation:** A practical checklist for AI search optimization. It covers prompt and journey definition, AI presence measurement, visibility gap diagnosis, retrieval and extractability improvements, validation, and reporting.
-- **Relevance:** Strongest source for turning AI SEO into a repeatable content-production and optimization workflow.
+- **URL:** https://www.aleydasolis.com/en/ai-search/ai-search-winning-brands-characteristics/
+- **Date:** 2026-04-01
+- **Source type:** Article / strategic framework
+- **Annotation:** Defines characteristics of brands that perform better in AI search, including accessibility, usefulness, extractability, recognition, consistency, corroboration, credibility, differentiation, freshness, and transactability.
+- **Relevance:** Useful for turning AI search optimization into content and brand-readiness criteria.
 
 ### 3. SEO VS GEO: Optimizing for Traditional vs AI Search
 
