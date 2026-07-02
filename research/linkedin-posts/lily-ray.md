@@ -6,28 +6,28 @@
 * **LinkedIn profile:** https://www.linkedin.com/in/lily-ray-44755615/
 * **Collection method:** Manually collected from LinkedIn activity feed.
 * **Date collected:** 2026-07-02
-* **Topic focus:** AI search, AEO, GEO, Google algorithm updates, E-E-A-T, content quality, AI Overviews, Google Discover, publisher visibility, AI-generated content, AI slop, misinformation, trust signals, sustainable SEO, and brand visibility across Google, ChatGPT, Gemini, and other AI answer engines.
+* **Topic focus:** AI search, GEO, Google AI Overviews, E-E-A-T, AI citation vs recommendation behavior, content quality, brand authority, self-promotional listicles, comparison pages, review content, AI answer manipulation, Reddit astroturfing, search spam, and sustainable SEO.
 
 ## Selection Criteria
 
-The posts below were selected because they show Lily Ray’s recent public thinking around AI search, Google visibility, content quality, E-E-A-T, algorithm risk, and how brands should approach SEO as search becomes more AI-driven.
+The posts below were selected because they show Lily Ray’s recent public thinking around AI search visibility, brand authority, E-E-A-T, and the risks of trying to manipulate AI-generated search answers with low-quality or self-promotional content.
 
 Priority was given to posts that discuss:
 
-* AI search optimization, AEO, GEO, or AI answer-engine visibility
-* Google AI Overviews, AI Mode, Google Discover, and other AI-driven search surfaces
-* E-E-A-T, trust signals, content quality, and source credibility
-* Google algorithm updates, ranking volatility, recoveries, and site quality issues
-* AI-generated content, AI slop, misinformation, and content risk
-* Sustainable SEO strategy rather than short-term AI search hacks
-* Publisher visibility, zero-click behavior, and traffic loss from AI-generated answers
-* How brands can appear across Google, ChatGPT, Gemini, and other AI answer engines
-* The limits of traditional SEO metrics in AI-driven search environments
-* Practical examples of how AI changes search visibility, content strategy, and brand trust
+* AI search visibility and Google AI Overview citations
+* E-E-A-T as a long-term visibility advantage
+* Brand authority, trust signals, and diversified content ecosystems
+* The difference between being cited by AI and being recommended by AI
+* Self-promotional “best [category]” listicles and their risks
+* Comparison and alternative pages as SEO/GEO tactics
+* The danger of scaling biased or inauthentic comparison content with AI
+* How Google, OpenAI, and other AI systems may evaluate third-party reviews and external authority
+* Reddit astroturfing, self-promotion, and other tactics used to influence AI answers
+* Sustainable SEO and GEO strategies that rely on credibility rather than shortcuts
 
-Some posts are directly related to AI-powered SEO content production, especially posts about AI search visibility, content quality, E-E-A-T, AI-generated content, and Google’s AI search surfaces.
+The selected posts are directly relevant to AI-powered SEO content production because they focus on what AI-assisted content should avoid: thin self-promotion, scaled comparison pages without real experience, fake authority signals, and manipulative tactics designed only to influence AI answers.
 
-Other posts provide supporting context around algorithm updates, publisher risk, misinformation, Google Discover, and the broader search ecosystem that affects how AI-assisted content should be created, evaluated, and trusted.
+They also show what stronger AI-era content strategy can look like: experience-driven content, trusted brand ecosystems, diversified content formats, original authority, and external validation from sources beyond the brand’s own website.
 
 ---
 
