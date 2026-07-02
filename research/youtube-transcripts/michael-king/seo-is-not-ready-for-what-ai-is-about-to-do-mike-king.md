@@ -4,7 +4,7 @@
 
 * **Expert:** michael-king
 * **URL:** https://www.youtube.com/watch?v=p0XPAM-kQUk
-* **Date:** 2026
+* **Date:** 2026-02-24
 * **Source type:** YouTube video
 * **Transcript method:** YouTube transcript API
 * **Transcript language:** English
