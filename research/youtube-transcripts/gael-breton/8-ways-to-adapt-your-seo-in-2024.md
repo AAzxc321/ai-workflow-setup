@@ -4,7 +4,7 @@
 
 * **Expert:** gael-breton
 * **URL:** https://www.youtube.com/watch?v=0D_sPcuPBRE
-* **Date:** 2024
+* **Date:** 2024-01-01
 * **Source type:** YouTube video
 * **Transcript method:** YouTube transcript API
 * **Transcript language:** English
