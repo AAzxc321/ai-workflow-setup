@@ -4,7 +4,7 @@
 
 * **Expert:** gael-breton
 * **URL:** https://www.youtube.com/watch?v=RxwMMROFWPc
-* **Date:** 2026
+* **Date:** 2025-07-30
 * **Source type:** YouTube video
 * **Transcript method:** YouTube transcript API
 * **Transcript language:** English
