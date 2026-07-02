@@ -4,7 +4,7 @@
 
 * **Expert:** aleyda-solis
 * **URL:** https://www.youtube.com/watch?v=yrJe9E08llc
-* **Date:** 2026
+* **Date:** 2025-12-18
 * **Source type:** YouTube video
 * **Transcript method:** YouTube transcript API
 * **Transcript language:** English
