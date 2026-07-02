@@ -133,7 +133,7 @@ Please remember, space is limited. Don’t delay if this is something you’d li
 
 ## Post 3
 
-* **URL:** [Post 3](3)
+* **URL:** [Post 3](https://www.linkedin.com/posts/mattdiggityseo_tips-from-the-agency-the-search-initiative-activity-7459497641542926336-fbdF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
 * **Date:** Mon, 11 May 2026 07:00:28 GMT (UTC)
 * **Source type:** LinkedIn post
 
@@ -201,7 +201,7 @@ The results after 5 months:
 ## Post 4
 
 * **URL:** [Post 4](https://www.linkedin.com/posts/mattdiggityseo_editorial-coverage-now-makes-up-61-of-ai-generated-activity-7456997543328260096-f_uR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGaCBk0BJ6KDxSmb3oH6XU0hOPfU35VbcGk)
-* **Date:**  Mon, 04 May 2026 09:25:58 GMT (UTC)
+* **Date:** Mon, 04 May 2026 09:25:58 GMT (UTC)
 * **Source type:** LinkedIn post
 
 ## **Post 4 Extract:**
