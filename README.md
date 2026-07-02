@@ -34,9 +34,9 @@ The research materials are organized as follows:
 - `research/sources.md` — master source list with all 10 experts, links, dates, source types, and brief annotations.
 - `research/linkedin-posts/` — manually collected LinkedIn posts organized by expert.
 - `research/youtube-transcripts/` — YouTube transcripts collected with a Python transcript workflow and organized by expert/video.
-> Source list: `videos.csv`
-> Fetch script: `fetch_youtube_transcripts.py`
-> Transcript structure: one expert folder per source/person, with Markdown transcript files inside.
+1. Source list: `videos.csv`
+2. Fetch script: `fetch_youtube_transcripts.py`
+3. Transcript structure: one expert folder per source/person, with Markdown transcript files inside.
 - `research/other/` — additional articles, case studies, podcast pages, frameworks, guides, and supporting materials organized by expert.
 
 ### Why These Experts Were Chosen
