@@ -6,29 +6,30 @@
 * **LinkedIn profile:** https://www.linkedin.com/in/mattdiggity/
 * **Collection method:** Manually collected from LinkedIn activity feed.
 * **Date collected:** 2026-07-02
-* **Topic focus:** AI SEO, SEO testing, AI Overviews, affiliate SEO, traffic recovery, ranking experiments, content optimization, link building, site authority, Google updates, AI-assisted workflows, and performance-driven SEO strategy.
+* **Topic focus:** AI SEO, AI Overviews, SEO case studies, traffic recovery, algorithm updates, trust-sensitive eCommerce SEO, E-E-A-T, Digital PR, Reddit visibility, topical clusters, link building, white-label SEO offers, AI visibility, and performance-driven SEO strategy.
 
 ## Selection Criteria
 
-The posts below were selected because they show Matt Diggity’s recent public thinking around AI SEO, ranking performance, search traffic, SEO experiments, and practical ways to adapt content strategy as Google and AI search change.
+The posts below were selected because they show Matt Diggity’s recent public positioning around SEO performance, AI visibility, algorithm recovery, Digital PR, and practical search-growth playbooks.
 
 Priority was given to posts that discuss:
 
-* AI SEO tactics, tests, or case studies
-* AI Overviews and their impact on organic traffic
-* Ranking experiments and measurable SEO results
-* Content optimization for search performance
-* Traffic drops, recoveries, and Google algorithm changes
-* Affiliate SEO and commercial content strategy
-* Link building, authority, and ranking signals
-* AI-assisted workflows for SEO or content production
-* Practical examples of scaling or improving SEO output
-* Risks, limitations, or performance tradeoffs of AI-generated content
-* Tactical SEO recommendations based on tests, data, or campaign results
+* SEO case studies with measurable traffic or revenue results
+* AI Overviews visibility and AI-generated search responses
+* Trust-sensitive eCommerce SEO and commercial content strategy
+* E-E-A-T, author credibility, trust signals, and “Why You Can Trust Us” sections
+* Intent alignment, content refreshes, internal linking, and user-journey audits
+* Reddit and community-driven visibility as part of SEO and AI search strategy
+* Cannibalization fixes, topical clusters, and structured content systems
+* Google core updates, spam updates, traffic drops, and recovery playbooks
+* Digital PR as a way to earn editorial coverage, links, and AI visibility
+* Turning internal data into newsworthy stories for journalists
+* Measuring SEO and PR impact across rankings, traffic, revenue, AI visibility, and referral traffic from tools like ChatGPT or Gemini
+* White-label SEO and lead-generation offers connected to SEO service delivery
 
-Some posts are directly related to AI-powered SEO content production, especially posts about AI SEO workflows, content optimization, AI Overviews, and ranking experiments.
+Some posts are directly related to AI-powered SEO content production, especially the posts about AI Overviews, topical clusters, content refreshes, internal linking, Digital PR, and AI visibility.
 
-Other posts provide supporting context around Matt Diggity’s broader SEO testing approach, affiliate SEO background, link-building strategy, traffic analysis, and performance-focused search marketing.
+Other posts provide supporting context around Matt Diggity’s broader SEO operating model: performance case studies, agency delivery, link building, algorithm recovery, and packaging SEO services around measurable business outcomes.
 
 ---
 
